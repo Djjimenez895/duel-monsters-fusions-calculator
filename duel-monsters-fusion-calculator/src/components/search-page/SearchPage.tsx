@@ -4,6 +4,8 @@ import type { Monster } from "../../models/monster";
 import { MonsterAttribute } from '../../models/monster-attributes';
 import { MonsterType } from '../../models/monster-type';
 import type { MonsterFusion } from '../../models/monster-fusion';
+import mysticalElfImg from "../../assets/MysticalElfImage.png";
+
 
 const wingEggElf: Monster = {
     name: "Wing Egg Elf",
@@ -32,7 +34,8 @@ const mysticalElf: Monster = {
     type: [MonsterType.Spellcaster, MonsterType.Normal],
     description: "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
     attackPoints: 600,
-    defensePoints: 800
+    defensePoints: 800,
+    imageUrl: mysticalElfImg,
 };
 
 const mysticalElfFusion: MonsterFusion = {
@@ -49,10 +52,10 @@ export default function SearchPage() {
     const [expandedRow, setExpandedRow] = useState<number | null>(null);
 
     const filtered = fusionData.filter((fusion) =>
-    fusion.fusionMonsterMaterials.some((material) =>
-        material.name.toLowerCase().startsWith(query.toLowerCase())
-    )
-);
+        fusion.fusionMonsterMaterials.some((material) =>
+            material.name.toLowerCase().startsWith(query.toLowerCase())
+        )
+    );
 
     return (
         <div className="search-page">
@@ -92,8 +95,19 @@ export default function SearchPage() {
                                     {expandedRow === index && (
                                         <tr>
                                             <td colSpan={3}>
-                                                <div>ATK: { row.fusionResult.attackPoints } | DEF: { row.fusionResult.defensePoints } </div>
-                                                <div>Description: { row.fusionResult.description } </div>
+                                                <div className="expanded-details">
+                                                    {row.fusionResult.imageUrl && (
+                                                        <img
+                                                            src={row.fusionResult.imageUrl}
+                                                            alt={row.fusionResult.name}
+                                                            onError={(e) => e.currentTarget.style.display = "none"}
+                                                        />
+                                                    )}
+                                                    <div> Monster Name: {row.fusionResult.name} </div>
+                                                    <div>ATK: {row.fusionResult.attackPoints} | DEF: {row.fusionResult.defensePoints} </div>
+                                                    <div>Description: {row.fusionResult.description} </div>
+                                                </div>
+
                                             </td>
                                         </tr>
                                     )}
