@@ -7,6 +7,9 @@ import type { MonsterFusion } from '../../models/monster-fusion';
 import mysticalElfImg from "../../assets/MysticalElfImage.png";
 
 
+// These const Monsters are temporary. 
+// There will be a backend for storing this information. 
+// These const simply exist for experimenting with the UI. 
 const wingEggElf: Monster = {
     name: "Wing Egg Elf",
     attribute: MonsterAttribute.Light,
