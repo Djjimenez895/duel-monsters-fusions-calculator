@@ -12,4 +12,5 @@ export interface Monster {
     description: string;
     attackPoints: number;
     defensePoints: number;
+    imageUrl?: string;
 }
