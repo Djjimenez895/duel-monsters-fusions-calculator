@@ -17,7 +17,7 @@ export async function findFusionRecipesByMaterialName(materialName: string) {
             materials: {
                 some: {
                     materialMonster: {
-                        name: { contains: materialName, mode: "insensitive" },
+                        name: { startsWith: materialName, mode: "insensitive" },
                     },
                 },
             },
