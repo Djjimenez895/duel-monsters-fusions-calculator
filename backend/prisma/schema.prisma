@@ -1,0 +1,105 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum MonsterAttribute {
+  DARK
+  LIGHT
+  WATER
+  FIRE
+  EARTH
+  WIND
+  DIVINE
+}
+
+enum MonsterType {
+  Aqua
+  Beast
+  BeastWarrior
+  CreatorGod
+  Cyberse
+  Dinosaur
+  DivineBeast
+  Dragon
+  Fairy
+  Fiend
+  Fish
+  Insect
+  Machine
+  Plant
+  Psychic
+  Pyro
+  Reptile
+  Rock
+  SeaSerpent
+  Spellcaster
+  Thunder
+  Warrior
+  WingedBeast
+  Wyrm
+  Zombie
+  Normal
+  Effect
+  Fusion
+  Ritual
+  Synchro
+  Xyz
+  Pendulum
+  Link
+  Tuner
+  Token
+  Flip
+  Toon
+  Spirit
+  Union
+  Gemini
+}
+
+model Monster {
+  id            Int              @id @default(autoincrement())
+  name          String
+  attribute     MonsterAttribute
+  monsterLevel  Int?
+  type          MonsterType
+  description   String?
+  attackPoints  Int?
+  defensePoints Int?
+  imageUrl      String?
+  createdAt     DateTime         @default(now()) @map("created_at")
+  updatedAt     DateTime         @updatedAt @map("updated_at")
+
+  fusionResults   FusionRecipe[]         @relation("ResultMonster")
+  fusionMaterials FusionRecipeMaterial[] @relation("MaterialMonster")
+
+  @@map("monsters")
+}
+
+model FusionRecipe {
+  id              Int      @id @default(autoincrement())
+  resultMonsterId Int      @map("result_monster_id")
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+
+  resultMonster Monster                @relation("ResultMonster", fields: [resultMonsterId], references: [id])
+  materials     FusionRecipeMaterial[]
+
+  @@map("fusion_recipes")
+}
+
+model FusionRecipeMaterial {
+  id                Int      @id @default(autoincrement())
+  fusionRecipeId    Int      @map("fusion_recipe_id")
+  materialMonsterId Int      @map("material_monster_id")
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+
+  fusionRecipe    FusionRecipe @relation(fields: [fusionRecipeId], references: [id])
+  materialMonster Monster      @relation("MaterialMonster", fields: [materialMonsterId], references: [id])
+
+  @@map("fusion_recipe_materials")
+}
