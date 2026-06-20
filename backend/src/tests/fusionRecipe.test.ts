@@ -66,4 +66,19 @@ describe("GET /fusions/search", () => {
         expect(res.status).toBe(200);
         expect(res.body.length).toBeGreaterThan(0);
     });
+
+    it("matches by prefix, not substring", async () => {
+        const prefixRes = await request(app)
+            .get("/fusions/search?material=Gaia");
+
+        expect(prefixRes.status).toBe(200);
+        expect(prefixRes.body.length).toBeGreaterThan(0);
+
+        // "fierce" appears mid-name but is not a prefix — should return nothing
+        const midStringRes = await request(app)
+            .get("/fusions/search?material=fierce");
+
+        expect(midStringRes.status).toBe(200);
+        expect(midStringRes.body).toEqual([]);
+    });
 });
