@@ -65,7 +65,7 @@ model Monster {
   name          String
   attribute     MonsterAttribute
   monsterLevel  Int?
-  type          MonsterType
+  type          MonsterType[]
   description   String?
   attackPoints  Int?
   defensePoints Int?
