@@ -1,6 +1,7 @@
 import "dotenv/config";
 import express from "express";
 import monsterRouter from "./routes/monsterRoute";
+import fusionRecipeRouter from "./routes/fusionRecipeRoute";
 
 const app = express();
 const PORT = 3000;
@@ -12,6 +13,7 @@ app.get("/", (_req, res) => {
 });
 
 app.use("/monsters", monsterRouter);
+app.use("/fusions", fusionRecipeRouter);
 
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
