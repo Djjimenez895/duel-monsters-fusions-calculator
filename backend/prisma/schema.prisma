@@ -76,6 +76,7 @@ model Monster {
   fusionResults   FusionRecipe[]         @relation("ResultMonster")
   fusionMaterials FusionRecipeMaterial[] @relation("MaterialMonster")
 
+  @@unique([name])
   @@map("monsters")
 }
 
