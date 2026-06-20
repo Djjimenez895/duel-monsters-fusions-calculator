@@ -30,6 +30,25 @@ The main goal is to answer questions like:
 - TypeScript
 - Vite
 - HTML/CSS
+- Node.js + Express (backend)
+- PostgreSQL + Prisma
+- Winston (logging)
+- Vitest + Supertest (testing)
+
+## Running Tests
+
+Backend tests are integration tests that run against a real PostgreSQL database.
+
+Before running tests, make sure you have:
+1. A local PostgreSQL database named `duel_monsters` with a `cards` schema
+2. The seed data applied from `backend/prisma/initial_seed_data.sql`
+3. A `.env` file in `backend/` with a valid `DATABASE_URL`
+
+Then run:
+```
+cd backend
+npm test
+```
 
 ## Planned Features
 - Search by resulting fusion monster
