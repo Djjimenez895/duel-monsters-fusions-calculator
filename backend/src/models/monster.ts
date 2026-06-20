@@ -1,14 +1,11 @@
-import type { MonsterAttribute } from "./monster-attributes";
-import type { MonsterType } from "./monster-type";
+import type { MonsterAttribute, MonsterType } from "../generated/prisma/client";
 
-/** Repesents a monster card in Duel Monsters.
- *
- */
+/** Represents a monster card in Duel Monsters. */
 export interface Monster {
     id: number;
     name: string;
     attribute: MonsterAttribute;
-    monsterLevel: number;
+    monsterLevel: number | null;
     type: MonsterType[];
     description: string | null;
     attackPoints: number | null;
