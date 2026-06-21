@@ -30,5 +30,8 @@ export async function findFusionRecipesByMaterialName(materialName: string) {
                 },
             },
         },
+        orderBy: {
+            resultMonster: { attackPoints: "desc" },
+        },
     });
 }
