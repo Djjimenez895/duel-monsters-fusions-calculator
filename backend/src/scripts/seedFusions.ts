@@ -2,11 +2,9 @@ import { readFileSync } from "fs";
 import path from "path";
 import prisma from "../db";
 
-// Sample Usage: npx ts-node --transpile-only src/scripts/seedFusions.ts C:\Users\user\Downloads\dm1_fusions.txt
-// This file relies on the raw text versions of the Duel Monsters Fusions yugipedia page. 
-// At the time of writing this script, the link for this page is: https://yugipedia.com/wiki/List_of_Yu-Gi-Oh!_Duel_Monsters_Fusions
+// Sample Usage: npx ts-node --transpile-only src/scripts/seedFusions.ts src/scripts/dm1_fusions.txt
 
-// The wiki uses DM1 in-game display names, which are truncated to ~18 characters and sometimes
+// Yugipedia uses DM1 in-game display names, which are truncated to ~18 characters and sometimes
 // abbreviated (e.g. "D.Magician" instead of "Dark Magician"). Where the abbreviation can't be
 // matched by a simple prefix check against the DB name, we map it explicitly here.
 // If the script reports unresolved names that you know are in the DB, add them here.
@@ -28,7 +26,7 @@ const DM1_ALIASES: Record<string, string> = {
 };
 
 // Extracts all monster display names from a block of wiki text.
-// The wiki encodes monster references as [[ArticleName (DM1)|DisplayName]].
+// Yugipedia encodes monster references as [[ArticleName (DM1)|DisplayName]].
 // We only care about the DisplayName (the part after the pipe).
 function extractMonsterNames(text: string): string[] {
     const names: string[] = [];
