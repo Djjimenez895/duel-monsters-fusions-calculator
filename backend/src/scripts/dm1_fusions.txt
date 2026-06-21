@@ -1,0 +1,1621 @@
+{{Italic title|List of ''Yu-Gi-Oh! Duel Monsters'' Fusions}}
+The following monsters can be [[Fusion Summon]]ed in the video game, ''[[Yu-Gi-Oh! Duel Monsters (video game)|Yu-Gi-Oh! Duel Monsters]]''. A total of 2,160 fusions are possible in the game, resulting in 53 different possible monsters.
+
+The [[Extra Deck]] does not exist in this game. [[Fusion Summon]]s can be performed in Duels by trying to [[Summon]] a monster from the [[hand]] on top of a monster on the [[field]]. Often the same monster can be Summoned, using various different Fusion Material.
+
+In the case of #063: "[[Harpie Lady Sister (DM1)|Harpie Lady Sister]]", the Fusion Summon is performed by equipping #062: "[[Harpie Lady (DM1)|Harpie Lady]]" with #318: "[[Elegant Egotist (DM1)|Elegant Egotist]]".
+
+Monsters Summoned this way are only temporary, and so do not remain in the player's possession after the Duel.
+
+The game also featured [[Communication Fusion]]; a different way of fusing monsters, which allows players to get a permanent copy of the Fusion Monster.
+
+== 002: "Mystical Elf" ==
+{{Main|""Mystical Elf"" (''DM1'')}}
+
+<section begin="Mystical Elf" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>264: "[[Wing Egg Elf (DM1)|Wing Egg Elf]]"
+| f1_m2 = <nowiki>#</nowiki>183: "[[Lucky Trinket (DM1)|Lucky Trinket]]"
+}}
+<section end="Mystical Elf" />
+
+== 009: "Shadow Specter" ==
+{{Main|""Shadow Specter"" (''DM1'')}}
+
+<section begin="Shadow Specter" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>202: "[[Air Marmot of Nefa (DM1)|Air Marmot of Nefa]]"
+| f1_m2 = <nowiki>#</nowiki>024: "[[Skull Servant (DM1)|Skull Servant]]"
+}}
+<section end="Shadow Specter" />
+
+== 011: "Sword Arm of Drago" ==
+{{Main|""Sword Arm of Drago"" (''DM1'')}}
+
+<section begin="Sword Arm of Drago" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f1_m2 = 
+* #004: "[[Baby Dragon (DM1)|Baby Dragon]]"
+* #007: "[[Winged Dragon 1 (DM1)|Winged Dragon #1]]"
+* #010: "[[Blackland Fire Dra (DM1)|Blackland Fire Dra]]"
+* #031: "[[Koumori Dragon (DM1)|Koumori Dragon]]"
+* #094: "[[Crawling Dragon (DM1)|Crawling Dragon]]"
+* #122: "[[Yamatano Dragon Sc (DM1)|Yamatano Dragon Sc]]"
+* #200: "[[Petit Dragon (DM1)|Petit Dragon]]"
+* #296: "[[One-eyed Shield Dr (DM1)|One-eyed Shield Dr]]"
+* #298: "[[Wicked Dragon with (DM1)|Wicked Dragon with]]"
+}}
+<section end="Sword Arm of Drago" />
+
+== 015: "Flame Swordsman" ==
+{{Main|""Flame Swordsman"" (''DM1'')}}
+
+<section begin="Flame Swordsman" />
+{{DM Fusion Material
+| columns_1 = 3
+| f1_m1     = 
+* #133: "[[Charubin the Fire (DM1)|Charubin the Fire]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #168: "[[Darkfire Dragon (DM1)|Darkfire Dragon]]"
+* #176: "[[Fire Eye (DM1)|Fire Eye]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+* #272: "[[Mavelus (DM1)|Mavelus]]"
+| f1_m2     = 
+* #012: "[[Swamp Battleguard (DM1)|Swamp Battleguard]]"
+* #041: "[[Celtic Guardian (DM1)|Celtic Guardian]]"
+* #043: "[[Karbonala Warrior (DM1)|Karbonala Warrior]]"
+* #066: "[[Kojikocy (DM1)|Kojikocy]]"
+* #078: "[[Axe Raider (DM1)|Axe Raider]]"
+* #093: "[[Zanki (DM1)|Zanki]]"
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #127: "[[Ansatsu (DM1)|Ansatsu]]"
+* #128: "[[LaMoon (DM1)|LaMoon]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #165: "[[The Judgement Hand (DM1)|The Judgement Hand]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #234: "[[Beautiful Headhunt (DM1)|Beautiful Headhunt]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+
+| f2_m1     =
+* #291: "[[Fireyarou (DM1)|Fireyarou]]"
+| columns_2 = 3
+| f2_m2     =
+* #012: "[[Swamp Battleguard (DM1)|Swamp Battleguard]]"
+* #041: "[[Celtic Guardian (DM1)|Celtic Guardian]]"
+* #043: "[[Karbonala Warrior (DM1)|Karbonala Warrior]]"
+* #066: "[[Kojikocy (DM1)|Kojikocy]]"
+* #078: "[[Axe Raider (DM1)|Axe Raider]]"
+* #093: "[[Zanki (DM1)|Zanki]]"
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #128: "[[LaMoon (DM1)|LaMoon]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #165: "[[The Judgement Hand (DM1)|The Judgement Hand]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #234: "[[Beautiful Headhunt (DM1)|Beautiful Headhunt]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+
+| columns_3 = 3
+| f3_m1     = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+| f3_m2     = 
+* #012: "[[Swamp Battleguard (DM1)|Swamp Battleguard]]"
+* #041: "[[Celtic Guardian (DM1)|Celtic Guardian]]"
+* #043: "[[Karbonala Warrior (DM1)|Karbonala Warrior]]"
+* #066: "[[Kojikocy (DM1)|Kojikocy]]"
+* #078: "[[Axe Raider (DM1)|Axe Raider]]"
+* #093: "[[Zanki (DM1)|Zanki]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #165: "[[The Judgement Hand (DM1)|The Judgement Hand]]"
+* #225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+* #234: "[[Beautiful Headhunt (DM1)|Beautiful Headhunt]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+
+| f4_m1     = 
+* #225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f4_m2     = 
+* #041: "[[Celtic Guardian (DM1)|Celtic Guardian]]"
+* #043: "[[Karbonala Warrior (DM1)|Karbonala Warrior]]"
+* #066: "[[Kojikocy (DM1)|Kojikocy]]"
+* #093: "[[Zanki (DM1)|Zanki]]"
+* #165: "[[The Judgement Hand (DM1)|The Judgement Hand]]"
+* #225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+}}
+<section end="Flame Swordsman" />
+
+== 022: "Summoned Skull" ==
+{{Main|""Summoned Skull"" (''DM1'')}}
+
+<section begin="Summoned Skull" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>254: "[[Embryonic Beast (DM1)|Embryonic Beast]]"
+| f1_m2 = <nowiki>#</nowiki>016: "[[Time Wizard (DM1)|Time Wizard]]"
+| f2_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f2_m2 = <nowiki>#</nowiki>085: "[[King of Yamimakai (DM1)|King of Yamimakai]]"
+}}
+<section end="Summoned Skull" />
+
+== 028: "Rock Ogre Grotto#1" ==
+{{Main|""Rock Ogre Grotto##1"" (''DM1'')}}
+
+<section begin="Rock Ogre Grotto#1" />
+{{DM Fusion Material
+| columns = 3
+| f1_m1 = <nowiki>#</nowiki>263: "[[Rock Ogre Grotto 2 (DM1)|Rock Ogre Grotto#2]]"
+| f1_m2 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #016: "[[Time Wizard (DM1)|Time Wizard]]"
+* #017: "[[R Leg of Forbidden (DM1)|R Leg of Forbidden]]"
+* #018: "[[L Leg of Forbidden (DM1)|L Leg of Forbidden]]"
+* #019: "[[R Arm of Forbidden (DM1)|R Arm of Forbidden]]"
+* #020: "[[L Arm of Forbidden (DM1)|L Arm of Forbidden]]"
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #029: "[[Mountain Warrior (DM1)|Mountain Warrior]]"
+* #034: "[[Saggi the Dark Clo (DM1)|Saggi the Dark Clo]]"
+* #050: "[[Basic Insect (DM1)|Basic Insect]]"
+* #056: "[[Larvae Moth (DM1)|Larvae Moth]]"
+* #058: "[[Kuriboh (DM1)|Kuriboh]]"
+* #072: "[[Cocoon of Evolutio (DM1)|Cocoon of Evolutio]]"
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+* #105: "[[Tomozaurus (DM1)|Tomozaurus]]"
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+* #121: "[[Sleeping Lion (DM1)|Sleeping Lion]]"
+* #123: "[[Dark Plant (DM1)|Dark Plant]]"
+* #130: "[[Weather Control (DM1)|Weather Control]]"
+* #134: "[[Mystical Capture C (DM1)|Mystical Capture C]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #137: "[[Mystery Hand (DM1)|Mystery Hand]]"
+* #141: "[[Spiked Snail (DM1)|Spiked Snail]]"
+* #144: "[[Wind Djinn (DM1)|Wind Djinn]]"
+* #145: "[[Phantom Thief (DM1)|Phantom Thief]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #152: "[[The Melting Red Sh (DM1)|The Melting Red Sh]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #159: "[[Dig Beak (DM1)|Dig Beak]]"
+* #167: "[[Ancient Jar (DM1)|Ancient Jar]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #173: "[[Dark Prisoner (DM1)|Dark Prisoner]]"
+* #179: "[[Phantom Dewan (DM1)|Phantom Dewan]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #183: "[[Lucky Trinket (DM1)|Lucky Trinket]]"
+* #184: "[[Genin (DM1)|Genin]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #187: "[[Gate Deeg (DM1)|Gate Deeg]]"
+* #191: "[[LaLa Li-oon (DM1)|LaLa Li-oon]]"
+* #192: "[[Key Mace (DM1)|Key Mace]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #202: "[[Air Marmot of Nefa (DM1)|Air Marmot of Nefa]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+* #207: "[[Droll Bird (DM1)|Droll Bird]]"
+* #208: "[[Petit Angel (DM1)|Petit Angel]]"
+* #209: "[[Winged Cleaver (DM1)|Winged Cleaver]]"
+* #211: "[[Kaminarikozou (DM1)|Kaminarikozou]]"
+* #212: "[[Meotoko (DM1)|Meotoko]]"
+* #221: "[[Kumootoko (DM1)|Kumootoko]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #227: "[[Hitodenchak (DM1)|Hitodenchak]]"
+* #229: "[[Hourglass of Life (DM1)|Hourglass of Life]]"
+* #232: "[[Madjinn Gunn (DM1)|Madjinn Gunn]]"
+* #237: "[[Haniwa (DM1)|Haniwa]]"
+* #240: "[[The Drdek (DM1)|The Drdek]]"
+* #254: "[[Embryonic Beast (DM1)|Embryonic Beast]]"
+* #255: "[[Prevent Rat (DM1)|Prevent Rat]]"
+* #260: "[[Lunar Queen Elzaim (DM1)|Lunar Queen Elzaim]]"
+* #261: "[[Wicked Mirror (DM1)|Wicked Mirror]]"
+* #264: "[[Wing Egg Elf (DM1)|Wing Egg Elf]]"
+* #268: "[[Sectarian of Secre (DM1)|Sectarian of Secre]]"
+* #273: "[[Ancient Tree of En (DM1)|Ancient Tree of En]]"
+* #274: "[[Green Phantom King (DM1)|Green Phantom King]]"
+* #277: "[[Gorgon Egg (DM1)|Gorgon Egg]]"
+* #278: "[[Petit Moth (DM1)|Petit Moth]]"
+* #285: "[[Serpent Marauder (DM1)|Serpent Marauder]]"
+* #288: "[[Dark Artist (DM1)|Dark Artist]]"
+* #289: "[[Change Slime (DM1)|Change Slime]]"
+* #292: "[[Psychic Kappa (DM1)|Psychic Kappa]]"
+* #295: "[[Bio Plant (DM1)|Bio Plant]]"
+}}
+<section end="Rock Ogre Grotto#1" />
+
+== 030: "Zombie Warrior" ==
+{{Main|""Zombie Warrior"" (''DM1'')}}
+
+<section begin="Zombie Warrior" />
+{{DM Fusion Material
+| columns_1 = 3
+| f1_m1 = 
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #241: "[[Dark Assailant (DM1)|Dark Assailant]]"
+| f1_m2 = 
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+
+| columns_2 = 3
+| f2_m1 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+* #132: "[[The 13th Grave (DM1)|The 13th Grave]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+| f2_m2 = 
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+
+| columns_3 = 3
+| f3_m1 = <nowiki>#</nowiki>154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+| f3_m2 = 
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+}}
+<section end="Zombie Warrior" />
+
+== 033: "Judge Man" ==
+{{Main|""Judge Man"" (''DM1'')}}
+
+<section begin="Judge Man" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f1_m2 =
+* #078: "[[Axe Raider (DM1)|Axe Raider]]"
+* #127: "[[Ansatsu (DM1)|Ansatsu]]"
+* #234: "[[Beautiful Headhunt (DM1)|Beautiful Headhunt]]"
+}}
+<section end="Judge Man" />
+
+== 035: "D.Magician" ==
+{{Main|""D.Magician"" (''DM1'')}}
+
+<section begin="D.Magician" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+| f1_m2 = 
+* #044: "[[Rogue Doll (DM1)|Rogue Doll]]"
+* #106: "[[Spirit of the Wind (DM1)|Spirit of the Wind]]"
+}}
+<section end="D.Magician" />
+
+== 036: "The Snake Hair" ==
+{{Main|""The Snake Hair"" (''DM1'')}}
+
+<section begin="The Snake Hair" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+| f1_m2 = 
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+}}
+<section end="The Snake Hair" />
+
+== 037: "Gaia the Dragon Ch" ==
+{{Main|""Gaia the Dragon Ch"" (''DM1'')}}
+
+<section begin="Gaia the Dragon Ch" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>039: "[[Curse of Dragon (DM1)|Curse of Dragon]]"
+| f1_m2 = <nowiki>#</nowiki>038: "[[Gaia The Fierce Kn (DM1)|Gaia The Fierce Kn]]"
+}}
+<section end="Gaia the Dragon Ch" />
+
+== 038: "Gaia The Fierce Kn" ==
+{{Main|""Gaia The Fierce Kn"" (''DM1'')}}
+
+<section begin="Gaia The Fierce Kn" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f1_m2 = 
+* #012: "[[Swamp Battleguard (DM1)|Swamp Battleguard]]"
+* #015: "[[Flame Swordsman (DM1)|Flame Swordsman]]"
+* #033: "[[Judge Man (DM1)|Judge Man]]"
+}}
+<section end="Gaia The Fierce Kn" />
+
+== 041: "Celtic Guardian" ==
+{{Main|""Celtic Guardian"" (''DM1'')}}
+
+<section begin="Celtic Guardian" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = 
+* #002 "[[Mystical Elf (DM1)|Mystical Elf]]"
+* #264 "[[Wing Egg Elf (DM1)|Wing Egg Elf]]"
+| f1_m2 = 
+* #100 "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #165: "[[The Judgement Hand (DM1)|The Judgement Hand]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+}}
+<section end="Celtic Guardian" />
+
+== 042: "Faceless Mage" ==
+{{Main|""Faceless Mage"" (''DM1'')}}
+
+<section begin="Faceless Mage" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+| f1_m2 = 
+* #016: "[[Time Wizard (DM1)|Time Wizard]]"
+* #017: "[[R Leg of Forbidden (DM1)|R Leg of Forbidden]]"
+* #018: "[[L Leg of Forbidden (DM1)|L Leg of Forbidden]]"
+* #019: "[[R Arm of Forbidden (DM1)|R Arm of Forbidden]]"
+* #020: "[[L Arm of Forbidden (DM1)|L Arm of Forbidden]]"
+* #034: "[[Saggi the Dark Clo (DM1)|Saggi the Dark Clo]]"
+* #104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+* #183: "[[Lucky Trinket (DM1)|Lucky Trinket]]"
+* #184: "[[Genin (DM1)|Genin]]"
+}}
+<section end="Faceless Mage" />
+
+== 043: "Karbonala Warrior" ==
+{{Main|""Karbonala Warrior"" (''DM1'')}}
+
+<section begin="Karbonala Warrior" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+| f1_m2 = <nowiki>#</nowiki>160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+}}
+<section end="Karbonala Warrior" />
+
+== 044: "Rogue Doll" ==
+{{Main|""Rogue Doll"" (''DM1'')}}
+
+<section begin="Rogue Doll" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+| f1_m2 = 
+* #021: "[[Exod. of Forbidden (DM1)|Exod. of Forbidden]]"
+* #114: "[[White Magical Hat (DM1)|White Magical Hat]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #174: "[[Hurricail (DM1)|Hurricail]]"
+* #190: "[[Akakieisu (DM1)|Akakieisu]]"
+* #220: "[[Masked Sorcerer (DM1)|Masked Sorcerer]]"
+* #259: "[[Ancient Sorcerer (DM1)|Ancient Sorcerer]]"
+}}
+<section end="Rogue Doll" />
+
+== 063: "Harpie Lady Sister" ==
+{{Main|""Harpie Lady Sister"" (''DM1'')}}
+
+<section begin="Harpie Lady Sister" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>062: "[[Harpie Lady (DM1)|Harpie Lady]]"
+| f1_m2 = <nowiki>#</nowiki>318: "[[Elegant Egotist (DM1)|Elegant Egotist]]"
+}}
+<section end="Harpie Lady Sister" />
+
+== 069: "Thousand Dragon" ==
+{{Main|""Thousand Dragon"" (''DM1'')}}
+
+<section begin="Thousand Dragon" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>016: "[[Time Wizard (DM1)|Time Wizard]]"
+| f1_m2 = <nowiki>#</nowiki>004: "[[Baby Dragon (DM1)|Baby Dragon]]"
+}}
+<section end="Thousand Dragon" />
+
+== 074: "Giant Rock Soldier" ==
+{{Main|""Giant Rock Soldier"" (''DM1'')}}
+
+<section begin="Giant Rock Soldier" />
+{{DM Fusion Material
+| columns = 4
+| f1_m1 = <nowiki>#</nowiki>263: "[[Rock Ogre Grotto 2 (DM1)|Rock Ogre Grotto#2]]"
+| f1_m2 = 
+* #002: "[[Mystical Elf (DM1)|Mystical Elf]]"
+* #003: "[[Hitotsu-me Giant (DM1)|Hitotsu-me Giant]]"
+* #004: "[[Baby Dragon (DM1)|Baby Dragon]]"
+* #005: "[[Ryu-kishin (DM1)|Ryu-kishin]]"
+* #006: "[[Feral Imp (DM1)|Feral Imp]]"
+* #008: "[[Mushroom Man (DM1)|Mushroom Man]]"
+* #013: "[[Tyhone (DM1)|Tyhone]]"
+* #021: "[[Exod. of Forbidden (DM1)|Exod. of Forbidden]]"
+* #025: "[[Horn Imp (DM1)|Horn Imp]]"
+* #027: "[[Beaver Warrior (DM1)|Beaver Warrior]]"
+* #028: "[[Rock Ogre Grotto 1 (DM1)|Rock Ogre Grotto#1]]"
+* #030: "[[Zombie Warrior (DM1)|Zombie Warrior]]"
+* #042: "[[Faceless Mage (DM1)|Faceless Mage]]"
+* #045: "[[Oscillo Hero 2 (DM1)|Oscillo Hero #2]]"
+* #046: "[[Griffore (DM1)|Griffore]]"
+* #047: "[[Torike (DM1)|Torike]]"
+* #048: "[[Sangan (DM1)|Sangan]]"
+* #049: "[[Big Insect (DM1)|Big Insect]]"
+* #053: "[[Killer Needle (DM1)|Killer Needle]]"
+* #054: "[[Gokibore (DM1)|Gokibore]]"
+* #059: "[[Mammoth Graveyard (DM1)|Mammoth Graveyard]]"
+* #061: "[[Wolf (DM1)|Wolf]]"
+* #062: "[[Harpie Lady (DM1)|Harpie Lady]]"
+* #064: "[[Tiger Axe (DM1)|Tiger Axe]]"
+* #065: "[[Silver Fang (DM1)|Silver Fang]]"
+* #070: "[[Fiend Kraken (DM1)|Fiend Kraken]]"
+* #071: "[[Jellyfish (DM1)|Jellyfish]]"
+* #075: "[[Man-eating Plant (DM1)|Man-eating Plant]]"
+* #076: "[[Krokodilus (DM1)|Krokodilus]]"
+* #077: "[[Grappler (DM1)|Grappler]]"
+* #083: "[[Castle of D. Magic (DM1)|Castle of D. Magic]]"
+* #088: "[[Metal Guardian (DM1)|Metal Guardian]]"
+* #089: "[[Catapult Turtle (DM1)|Catapult Turtle]]"
+* #091: "[[Mystic Horseman (DM1)|Mystic Horseman]]"
+* #102: "[[Mask of Darkness (DM1)|Mask of Darkness]]"
+* #103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #109: "[[All-seeing Goddess (DM1)|All-seeing Goddess]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #112: "[[Life Eater (DM1)|Life Eater]]"
+* #113: "[[Dark Gray (DM1)|Dark Gray]]"
+* #114: "[[White Magical Hat (DM1)|White Magical Hat]]"
+* #115: "[[Kamionwizard (DM1)|Kamionwizard]]"
+* #116: "[[Nightmare Scorpion (DM1)|Nightmare Scorpion]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #119: "[[Trial of Nightmare (DM1)|Trial of Nightmare]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #122: "[[Yamatano Dragon Sc (DM1)|Yamatano Dragon Sc]]"
+* #128: "[[LaMoon (DM1)|LaMoon]]"
+* #129: "[[Nemuriko (DM1)|Nemuriko]]"
+* #132: "[[The 13th Grave (DM1)|The 13th Grave]]"
+* #133: "[[Charubin the Fire (DM1)|Charubin the Fire]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #140: "[[Toad Master (DM1)|Toad Master]]"
+* #143: "[[Chronolord (DM1)|Chronolord]]"
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #148: "[[Sinister Shadow (DM1)|Sinister Shadow]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #155: "[[Larvas (DM1)|Larvas]]"
+* #158: "[[Man Eater (DM1)|Man Eater]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #162: "[[Tainted Wisdom (DM1)|Tainted Wisdom]]"
+* #163: "[[Lisark (DM1)|Lisark]]"
+* #164: "[[Lord of Zemia (DM1)|Lord of Zemia]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #169: "[[Dark King of the A (DM1)|Dark King of the A]]"
+* #170: "[[Spirit of the Harp (DM1)|Spirit of the Harp]]"
+* #171: "[[Big Eye (DM1)|Big Eye]]"
+* #174: "[[Hurricail (DM1)|Hurricail]]"
+* #175: "[[Ancient Brain (DM1)|Ancient Brain]]"
+* #177: "[[Monsturtle (DM1)|Monsturtle]]"
+* #178: "[[Claw Reacher (DM1)|Claw Reacher]]"
+* #180: "[[Arlownay (DM1)|Arlownay]]"
+* #181: "[[Dark Shade (DM1)|Dark Shade]]"
+* #186: "[[Fiend Reflection 2 (DM1)|Fiend Reflection#2]]"
+* #188: "[[Synchar (DM1)|Synchar]]"
+* #190: "[[Akakieisu (DM1)|Akakieisu]]"
+* #193: "[[Turtle Tiger (DM1)|Turtle Tiger]]"
+* #194: "[[Terra the Terrible (DM1)|Terra the Terrible]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #196: "[[Arma Knight (DM1)|Arma Knight]]"
+* #198: "[[Happy Lover (DM1)|Happy Lover]]"
+* #199: "[[Penguin Knight (DM1)|Penguin Knight]]"
+* #201: "[[Frenzied Panda (DM1)|Frenzied Panda]]"
+* #205: "[[Dorover (DM1)|Dorover]]"
+* #206: "[[Twin Long Rods 1 (DM1)|Twin Long Rods#1]]"
+* #213: "[[Aqua Madoor (DM1)|Aqua Madoor]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+* #216: "[[Dryad (DM1)|Dryad]]"
+* #218: "[[Two-mouth Darkrule (DM1)|Two-mouth Darkrule]]"
+* #219: "[[Solitude (DM1)|Solitude]]"
+* #220: "[[Masked Sorcerer (DM1)|Masked Sorcerer]]"
+* #222: "[[Midnight Fiend (DM1)|Midnight Fiend]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #233: "[[Dark Titan of Terr (DM1)|Dark Titan of Terr]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #238: "[[Yashinoki (DM1)|Yashinoki]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #241: "[[Dark Assailant (DM1)|Dark Assailant]]"
+* #243: "[[Water Element (DM1)|Water Element]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+* #245: "[[Meda Bat (DM1)|Meda Bat]]"
+* #246: "[[One Who Hunts Soul (DM1)|One Who Hunts Soul]]"
+* #247: "[[Root Water (DM1)|Root Water]]"
+* #248: "[[Master & Expert (DM1)|Master & Expert]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #251: "[[Enchanting Mermaid (DM1)|Enchanting Mermaid]]"
+* #252: "[[Nekogal 1 (DM1)|Nekogal #1]]"
+* #253: "[[Angelwitch (DM1)|Angelwitch]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #257: "[[Stone Armadiller (DM1)|Stone Armadiller]]"
+* #258: "[[Beastking of the S (DM1)|Beastking of the S]]"
+* #259: "[[Ancient Sorcerer (DM1)|Ancient Sorcerer]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #265: "[[Sea King of Fury (DM1)|Sea King of Fury]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #269: "[[Versago the Destro (DM1)|Versago the Destro]]"
+* #270: "[[Wetha (DM1)|Wetha]]"
+* #271: "[[Megirus Light (DM1)|Megirus Light]]"
+* #272: "[[Mavelus (DM1)|Mavelus]]"
+* #276: "[[Ray & Temperature (DM1)|Ray & Temperature]]"
+* #279: "[[King Fog (DM1)|King Fog]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #282: "[[Mystical Sheep 2 (DM1)|Mystical Sheep #2]]"
+* #283: "[[Holograh (DM1)|Holograh]]"
+* #284: "[[Tao the Chanter (DM1)|Tao the Chanter]]"
+* #287: "[[Ogre of the Black (DM1)|Ogre of the Black]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #291: "[[Fireyarou (DM1)|Fireyarou]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+* #300: "[[Kurama (DM1)|Kurama]]"
+}}
+<section end="Giant Rock Soldier" />
+
+== 084: "Reaper of the Card" ==
+{{Main|""Reaper of the Card"" (''DM1'')}}
+
+<section begin="Reaper of the Card" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f1_m2 = 
+* #173: "[[Dark Prisoner (DM1)|Dark Prisoner]]"
+* #232: "[[Madjinn Gunn (DM1)|Madjinn Gunn]]"
+* #240: "[[The Drdek (DM1)|The Drdek]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+* #261: "[[Wicked Mirror (DM1)|Wicked Mirror]]"
+* #288: "[[Dark Artist (DM1)|Dark Artist]]"
+* #295: "[[Bio Plant (DM1)|Bio Plant]]"
+}}
+<section end="Reaper of the Card" />
+
+== 085: "King of Yamimakai" ==
+{{Main|""King of Yamimakai"" (''DM1'')}}
+
+<section begin="King of Yamimakai" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f1_m2 = 
+* #087: "[[Dark Chimera (DM1)|Dark Chimera]]"
+* #204: "[[Mabarrel (DM1)|Mabarrel]]"
+}}
+<section end="King of Yamimakai" />
+
+== 086: "Barox" ==
+{{Main|""Barox"" (''DM1'')}}
+
+<section begin="Barox" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = <nowiki>#</nowiki>005: "[[Ryu-kishin (DM1)|Ryu-kishin]]"
+| f1_m2 = 
+* #046: "[[Griffore (DM1)|Griffore]]"
+* #047: "[[Torike (DM1)|Torike]]"
+* #061: "[[Wolf (DM1)|Wolf]]"
+* #065: "[[Silver Fang (DM1)|Silver Fang]]"
+* #091: "[[Mystic Horseman (DM1)|Mystic Horseman]]"
+* #113: "[[Dark Gray (DM1)|Dark Gray]]"
+* #121: "[[Sleeping Lion (DM1)|Sleeping Lion]]"
+* #155: "[[Larvas (DM1)|Larvas]]"
+* #159: "[[Dig Beak (DM1)|Dig Beak]]"
+* #163: "[[Lisark (DM1)|Lisark]]"
+* #187: "[[Gate Deeg (DM1)|Gate Deeg]]"
+* #188: "[[Synchar (DM1)|Synchar]]"
+* #189: "[[Fusionist (DM1)|Fusionist]]"
+* #201: "[[Frenzied Panda (DM1)|Frenzied Panda]]"
+* #202: "[[Air Marmot of Nefa (DM1)|Air Marmot of Nefa]]"
+* #212: "[[Meotoko (DM1)|Meotoko]]"
+* #248: "[[Master & Expert (DM1)|Master & Expert]]"
+* #252: "[[Nekogal 1 (DM1)|Nekogal #1]]"
+* #255: "[[Prevent Rat (DM1)|Prevent Rat]]"
+* #282: "[[Mystical Sheep 2 (DM1)|Mystical Sheep #2]]"
+}}
+<section end="Barox" />
+
+== 087: "Dark Chimera" ==
+{{Main|""Dark Chimera"" (''DM1'')}}
+
+<section begin="Dark Chimera" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f1_m2 = 
+* #006: "[[Feral Imp (DM1)|Feral Imp]]"
+* #025: "[[Horn Imp (DM1)|Horn Imp]]"
+* #084: "[[Reaper of the Card (DM1)|Reaper of the Card]]"
+* #086: "[[Barox (DM1)|Barox]]"
+* #095: "[[Crass Clown (DM1)|Crass Clown]]"
+* #112: "[[Life Eater (DM1)|Life Eater]]"
+* #119: "[[Trial of Nightmare (DM1)|Trial of Nightmare]]"
+* #162: "[[Tainted Wisdom (DM1)|Tainted Wisdom]]"
+* #164: "[[Lord of Zemia (DM1)|Lord of Zemia]]"
+* #169: "[[Dark King of the A (DM1)|Dark King of the A]]"
+* #171: "[[Big Eye (DM1)|Big Eye]]"
+* #194: "[[Terra the Terrible (DM1)|Terra the Terrible]]"
+* #233: "[[Dark Titan of Terr (DM1)|Dark Titan of Terr]]"
+}}
+<section end="Dark Chimera" />
+
+== 092: "Rabid Horseman" ==
+{{Main|""Rabid Horseman"" (''DM1'')}}
+
+<section begin="Rabid Horseman" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>091: "[[Mystic Horseman (DM1)|Mystic Horseman]]"
+| f1_m2 = <nowiki>#</nowiki>026: "[[Battle Ox (DM1)|Battle Ox]]"
+}}
+<section end="Rabid Horseman" />
+
+== 093: "Zanki" ==
+{{Main|""Zanki"" (''DM1'')}}
+
+<section begin="Zanki" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f1_m2 = 
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+}}
+<section end="Zanki" />
+
+== 096: "Armored Zombie" ==
+{{Main|""Armored Zombie"" (''DM1'')}}
+
+<section begin="Armored Zombie" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>093: "[[Zanki (DM1)|Zanki]]"
+| f1_m2 = 
+* #112: "[[Life Eater (DM1)|Life Eater]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #229: "[[Hourglass of Life (DM1)|Hourglass of Life]]"
+}}
+<section end="Armored Zombie" />
+
+== 097: "Dragon Zombie" ==
+{{Main|""Dragon Zombie"" (''DM1'')}}
+
+<section begin="Dragon Zombie" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>094: "[[Crawling Dragon (DM1)|Crawling Dragon]]"
+| f1_m2 = 
+* #112: "[[Life Eater (DM1)|Life Eater]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #229: "[[Hourglass of Life (DM1)|Hourglass of Life]]"
+
+| f2_m1 = <nowiki>#</nowiki>108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+| f2_m2 = 
+* #030: "[[Zombie Warrior (DM1)|Zombie Warrior]]"
+* #098: "[[Clown Zombie (DM1)|Clown Zombie]]"
+* #132: "[[The 13th Grave (DM1)|The 13th Grave]]"
+* #241: "[[Dark Assailant (DM1)|Dark Assailant]]"
+}}
+<section end="Dragon Zombie" />
+
+== 098: "Clown Zombie" ==
+{{Main|""Clown Zombie"" (''DM1'')}}
+
+<section begin="Clown Zombie" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>095: "[[Crass Clown (DM1)|Crass Clown]]"
+| f1_m2 = 
+* #112: "[[Life Eater (DM1)|Life Eater]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #229: "[[Hourglass of Life (DM1)|Hourglass of Life]]"
+
+| f2_m1 = <nowiki>#</nowiki>108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+| f2_m2 = 
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+}}
+<section end="Clown Zombie" />
+
+== 099: "Pumpking the King" ==
+{{Main|""Pumpking the King"" (''DM1'')}}
+
+<section begin="Pumpking the King" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+| f1_m2 = 
+* #036: "[[The Snake Hair (DM1)|The Snake Hair]]"
+* #096: "[[Armored Zombie (DM1)|Armored Zombie]]"
+* #097: "[[Dragon Zombie (DM1)|Dragon Zombie]]"
+}}
+<section end="Pumpking the King" />
+
+== 106: "Spirit of the Wind" ==
+{{Main|""Spirit of the Wind"" (''DM1'')}}
+
+<section begin="Spirit of the Wind" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+| f1_m2 = 
+* #042: "[[Faceless Mage (DM1)|Faceless Mage]]"
+* #115: "[[Kamionwizard (DM1)|Kamionwizard]]"
+* #128: "[[LaMoon (DM1)|LaMoon]]"
+* #213: "[[Aqua Madoor (DM1)|Aqua Madoor]]"
+* #216: "[[Dryad (DM1)|Dryad]]"
+* #284: "[[Tao the Chanter (DM1)|Tao the Chanter]]"
+}}
+<section end="Spirit of the Wind" />
+
+== 115: "Kamionwizard" ==
+{{Main|""Kamionwizard"" (''DM1'')}}
+
+<section begin="Kamionwizard" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>104: "[[Curtain of the Dar (DM1)|Curtain of the Dar]]"
+| f1_m2 = 
+* #002: "[[Mystical Elf (DM1)|Mystical Elf]]"
+* #129: "[[Nemuriko (DM1)|Nemuriko]]"
+* #143: "[[Chronolord (DM1)|Chronolord]]"
+* #144: "[[Wind Djinn (DM1)|Wind Djinn]]"
+* #145: "[[Phantom Thief (DM1)|Phantom Thief]]"
+* #179: "[[Phantom Dewan (DM1)|Phantom Dewan]]"
+* #253: "[[Angelwitch (DM1)|Angelwitch]]"
+* #268: "[[Sectarian of Secre (DM1)|Sectarian of Secre]]"
+}}
+<section end="Kamionwizard" />
+
+== 127: "Ansatsu" ==
+{{Main|""Ansatsu"" (''DM1'')}}
+
+<section begin="Ansatsu" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f1_m2 = 
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+}}
+<section end="Ansatsu" />
+
+== 132: "The 13th Grave" ==
+{{Main|""The 13th Grave"" (''DM1'')}}
+
+<section begin="The 13th Grave" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+| f1_m2 = <nowiki>#</nowiki>009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+}}
+<section end="The 13th Grave" />
+
+== 133: "Charubin the Fire" ==
+{{Main|""Charubin the Fire"" (''DM1'')}}
+
+<section begin="Charubin the Fire" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+| f1_m2 = 
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+}}
+<section end="Charubin the Fire" />
+
+== 136: "Witty Phantom" ==
+{{Main|""Witty Phantom"" (''DM1'')}}
+
+<section begin="Witty Phantom" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f1_m2 = 
+* #083: "[[Castle of D. Magic (DM1)|Castle of D. Magic]]"
+* #102: "[[Mask of Darkness (DM1)|Mask of Darkness]]"
+* #103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+* #148: "[[Sinister Shadow (DM1)|Sinister Shadow]]"
+* #222: "[[Midnight Fiend (DM1)|Midnight Fiend]]"
+* #245: "[[Meda Bat (DM1)|Meda Bat]]"
+* #271: "[[Megirus Light (DM1)|Megirus Light]]"
+}}
+<section end="Witty Phantom" />
+
+== 138: "Dragon Statue" ==
+{{Main|""Dragon Statue"" (''DM1'')}}
+
+<section begin="Dragon Statue" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>263: "[[Rock Ogre Grotto 2 (DM1)|Rock Ogre Grotto#2]]"
+| f1_m2 = 
+* #200: "[[Petit Dragon (DM1)|Petit Dragon]]"
+* #296: "[[One-eyed Shield Dr (DM1)|One-eyed Shield Dr]]"
+* #298: "[[Wicked Dragon with (DM1)|Wicked Dragon with]]"
+}}
+<section end="Dragon Statue" />
+
+== 154: "Fire Reaper" ==
+{{Main|""Fire Reaper"" (''DM1'')}}
+
+<section begin="Fire Reaper" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>157: "[[Firegrass (DM1)|Firegrass]]"
+| f1_m2 = 
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+}}
+<section end="Fire Reaper" />
+
+== 157: "Firegrass" ==
+{{Main|""Firegrass"" (''DM1'')}}
+
+<section begin="Firegrass" />
+{{DM Fusion Material
+| f1_m1 = 
+* #123: "[[Dark Plant (DM1)|Dark Plant]]"
+* #273: "[[Ancient Tree of En (DM1)|Ancient Tree of En]]"
+* #274: "[[Green Phantom King (DM1)|Green Phantom King]]"
+| f1_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+| f2_m1 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+| f2_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+| f3_m1 = 
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+| f3_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+| f4_m1 = 
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+| f4_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+}}
+<section end="Firegrass" />
+
+== 162: "Tainted Wisdom" ==
+{{Main|""Tainted Wisdom"" (''DM1'')}}
+
+<section begin="Tainted Wisdom" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f1_m2 = 
+* #058: "[[Kuriboh (DM1)|Kuriboh]]"
+* #137: "[[Mystery Hand (DM1)|Mystery Hand]]"
+* #254: "[[Embryonic Beast (DM1)|Embryonic Beast]]"
+* #277: "[[Gorgon Egg (DM1)|Gorgon Egg]]"
+}}
+<section end="Tainted Wisdom" />
+
+== 168: "Darkfire Dragon" ==
+{{Main|""Darkfire Dragon"" (''DM1'')}}
+
+<section begin="Darkfire Dragon" />
+{{DM Fusion Material
+| f1_m1 = 
+* #004: "[[Baby Dragon (DM1)|Baby Dragon]]"
+* #007: "[[Winged Dragon 1 (DM1)|Winged Dragon #1]]"
+* #010: "[[Blackland Fire Dra (DM1)|Blackland Fire Dra]]"
+* #031: "[[Koumori Dragon (DM1)|Koumori Dragon]]"
+* #122: "[[Yamatano Dragon Sc (DM1)|Yamatano Dragon Sc]]"
+* #200: "[[Petit Dragon (DM1)|Petit Dragon]]"
+* #296: "[[One-eyed Shield Dr (DM1)|One-eyed Shield Dr]]"
+* #298: "[[Wicked Dragon with (DM1)|Wicked Dragon with]]"
+| f1_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #133: "[[Charubin the Fire (DM1)|Charubin the Fire]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #176: "[[Fire Eye (DM1)|Fire Eye]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+* #272: "[[Mavelus (DM1)|Mavelus]]"
+* #291: "[[Fireyarou (DM1)|Fireyarou]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+}}
+<section end="Darkfire Dragon" />
+
+== 189: "Fusionist" ==
+{{Main|""Fusionist"" (''DM1'')}}
+
+<section begin="Fusionist" />
+{{DM Fusion Material
+| f1_m1 = 
+* #198: "[[Happy Lover (DM1)|Happy Lover]]"
+* #208: "[[Petit Angel (DM1)|Petit Angel]]"
+* #253: "[[Angelwitch (DM1)|Angelwitch]]"
+* #260: "[[Lunar Queen Elzaim (DM1)|Lunar Queen Elzaim]]"
+* #264: "[[Wing Egg Elf (DM1)|Wing Egg Elf]]"
+| f1_m2 = 
+* #113: "[[Dark Gray (DM1)|Dark Gray]]"
+* #121: "[[Sleeping Lion (DM1)|Sleeping Lion]]"
+* #155: "[[Larvas (DM1)|Larvas]]"
+* #159: "[[Dig Beak (DM1)|Dig Beak]]"
+* #187: "[[Gate Deeg (DM1)|Gate Deeg]]"
+* #188: "[[Synchar (DM1)|Synchar]]"
+* #202: "[[Air Marmot of Nefa (DM1)|Air Marmot of Nefa]]"
+* #212: "[[Meotoko (DM1)|Meotoko]]"
+* #255: "[[Prevent Rat (DM1)|Prevent Rat]]"
+* #282: "[[Mystical Sheep 2 (DM1)|Mystical Sheep #2]]"
+}}
+<section end="Fusionist" />
+
+== 204: "Mabarrel" ==
+{{Main|""Mabarrel"" (''DM1'')}}
+
+<section begin="Mabarrel" />
+{{DM Fusion Material
+| columns_1 = 3
+| f1_m1 = <nowiki>#</nowiki>013: "[[Tyhone (DM1)|Tyhone]]"
+| f1_m2 = 
+* #005: "[[Ryu-kishin (DM1)|Ryu-kishin]]"
+* #006: "[[Feral Imp (DM1)|Feral Imp]]"
+* #025: "[[Horn Imp (DM1)|Horn Imp]]"
+* #048: "[[Sangan (DM1)|Sangan]]"
+* #058: "[[Kuriboh (DM1)|Kuriboh]]"
+* #083: "[[Castle of D. Magic (DM1)|Castle of D. Magic]]"
+* #084: "[[Reaper of the Card (DM1)|Reaper of the Card]]"
+* #086: "[[Barox (DM1)|Barox]]"
+* #087: "[[Dark Chimera (DM1)|Dark Chimera]]"
+* #088: "[[Metal Guardian (DM1)|Metal Guardian]]"
+* #095: "[[Crass Clown (DM1)|Crass Clown]]"
+* #102: "[[Mask of Darkness (DM1)|Mask of Darkness]]"
+* #103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+* #112: "[[Life Eater (DM1)|Life Eater]]"
+* #119: "[[Trial of Nightmare (DM1)|Trial of Nightmare]]"
+* #136: "[[Witty Phantom (DM1)|Witty Phantom]]"
+* #137: "[[Mystery Hand (DM1)|Mystery Hand]]"
+* #148: "[[Sinister Shadow (DM1)|Sinister Shadow]]"
+* #149: "[[Lord of the Lamp (DM1)|Lord of the Lamp]]"
+* #162: "[[Tainted Wisdom (DM1)|Tainted Wisdom]]"
+* #164: "[[Lord of Zemia (DM1)|Lord of Zemia]]"
+* #169: "[[Dark King of the A (DM1)|Dark King of the A]]"
+* #171: "[[Big Eye (DM1)|Big Eye]]"
+* #173: "[[Dark Prisoner (DM1)|Dark Prisoner]]"
+* #175: "[[Ancient Brain (DM1)|Ancient Brain]]"
+* #178: "[[Claw Reacher (DM1)|Claw Reacher]]"
+* #181: "[[Dark Shade (DM1)|Dark Shade]]"
+* #194: "[[Terra the Terrible (DM1)|Terra the Terrible]]"
+* #222: "[[Midnight Fiend (DM1)|Midnight Fiend]]"
+* #232: "[[Madjinn Gunn (DM1)|Madjinn Gunn]]"
+* #233: "[[Dark Titan of Terr (DM1)|Dark Titan of Terr]]"
+* #240: "[[The Drdek (DM1)|The Drdek]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+* #245: "[[Meda Bat (DM1)|Meda Bat]]"
+* #254: "[[Embryonic Beast (DM1)|Embryonic Beast]]"
+* #261: "[[Wicked Mirror (DM1)|Wicked Mirror]]"
+* #269: "[[Versago the Destro (DM1)|Versago the Destro]]"
+* #271: "[[Megirus Light (DM1)|Megirus Light]]"
+* #277: "[[Gorgon Egg (DM1)|Gorgon Egg]]"
+* #279: "[[King Fog (DM1)|King Fog]]"
+* #281: "[[Mystic Clown (DM1)|Mystic Clown]]"
+* #288: "[[Dark Artist (DM1)|Dark Artist]]"
+* #295: "[[Bio Plant (DM1)|Bio Plant]]"
+| f2_m1 = 
+| #103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f2_m2 = 
+* #136: "[[Witty Phantom (DM1)|Witty Phantom]]"
+* #149: "[[Lord of the Lamp (DM1)|Lord of the Lamp]]"
+* #281: "[[Mystic Clown (DM1)|Mystic Clown]]"
+}}
+<section end="Mabarrel" />
+
+== 215: "Flame Ghost" ==
+{{Main|""Flame Ghost"" (''DM1'')}}
+
+<section begin="Flame Ghost" />
+{{DM Fusion Material
+| f1_m1 = 
+* #176: "[[Fire Eye (DM1)|Fire Eye]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+| f1_m2 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+| f2_m1 = 
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+| f2_m2 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+| f3_m1 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+| f3_m2 = 
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+| f4_m1 = 
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+| f4_m2 = 
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+}}
+<section end="Flame Ghost" />
+
+== 217: "B. Skull Dragon" ==
+{{Main|""B. Skull Dragon"" (''DM1'')}}
+
+<section begin="B. Skull Dragon" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>022: "[[Summoned Skull (DM1)|Summoned Skull]]"
+| f1_m2 = <nowiki>#</nowiki>082: "[[Red-eyes B. Dragon (DM1)|Red-eyes B. Dragon]]"
+}}
+<section end="B. Skull Dragon" />
+
+== 228: "Wood Remains" ==
+{{Main|""Wood Remains"" (''DM1'')}}
+
+<section begin="Wood Remains" />
+{{DM Fusion Material
+| f1_m1 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+* #139: "[[B.eye Silv. Zombie (DM1)|B.eye Silv. Zombie]]"
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+| f1_m2 = 
+* #008: "[[Mushroom Man (DM1)|Mushroom Man]]"
+* #075: "[[Man-eating Plant (DM1)|Man-eating Plant]]"
+* #123: "[[Dark Plant (DM1)|Dark Plant]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #158: "[[Man Eater (DM1)|Man Eater]]"
+* #180: "[[Arlownay (DM1)|Arlownay]]"
+* #238: "[[Yashinoki (DM1)|Yashinoki]]"
+* #273: "[[Ancient Tree of En (DM1)|Ancient Tree of En]]"
+* #274: "[[Green Phantom King (DM1)|Green Phantom King]]"
+| f2_m1 =
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #135: "[[Fiend's Hand (DM1)|Fiend's Hand]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+* #203: "[[Phantom Ghost (DM1)|Phantom Ghost]]"
+| f2_m2 =
+* #008: "[[Mushroom Man (DM1)|Mushroom Man]]"
+* #075: "[[Man-eating Plant (DM1)|Man-eating Plant]]"
+* #123: "[[Dark Plant (DM1)|Dark Plant]]"
+* #158: "[[Man Eater (DM1)|Man Eater]]"
+* #180: "[[Arlownay (DM1)|Arlownay]]"
+* #238: "[[Yashinoki (DM1)|Yashinoki]]"
+* #273: "[[Ancient Tree of En (DM1)|Ancient Tree of En]]"
+* #274: "[[Green Phantom King (DM1)|Green Phantom King]]"
+| f3_m1 =
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+| f3_m2 =
+* #008: "[[Mushroom Man (DM1)|Mushroom Man]]"
+* #075: "[[Man-eating Plant (DM1)|Man-eating Plant]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #158: "[[Man Eater (DM1)|Man Eater]]"
+* #180: "[[Arlownay (DM1)|Arlownay]]"
+* #238: "[[Yashinoki (DM1)|Yashinoki]]"
+}}
+<section end="Wood Remains" />
+
+== 230: "Rare Fish" ==
+{{Main|""Rare Fish"" (''DM1'')}}
+
+<section begin="Rare Fish" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = 
+* #247: "[[Root Water (DM1)|Root Water]]"
+* #251: "[[Enchanting Mermaid (DM1)|Enchanting Mermaid]]"
+| f1_m2 = 
+* #023: "[[The Wicked Worm B (DM1)|The Wicked Worm B]]"
+* #046: "[[Griffore (DM1)|Griffore]]"
+* #047: "[[Torike (DM1)|Torike]]"
+* #061: "[[Wolf (DM1)|Wolf]]"
+* #065: "[[Silver Fang (DM1)|Silver Fang]]"
+* #091: "[[Mystic Horseman (DM1)|Mystic Horseman]]"
+* #113: "[[Dark Gray (DM1)|Dark Gray]]"
+* #121: "[[Sleeping Lion (DM1)|Sleeping Lion]]"
+* #155: "[[Larvas (DM1)|Larvas]]"
+* #159: "[[Dig Beak (DM1)|Dig Beak]]"
+* #163: "[[Lisark (DM1)|Lisark]]"
+* #187: "[[Gate Deeg (DM1)|Gate Deeg]]"
+* #188: "[[Synchar (DM1)|Synchar]]"
+* #189: "[[Fusionist (DM1)|Fusionist]]"
+* #201: "[[Frenzied Panda (DM1)|Frenzied Panda]]"
+* #202: "[[Air Marmot of Nefa (DM1)|Air Marmot of Nefa]]"
+* #212: "[[Meotoko (DM1)|Meotoko]]"
+* #248: "[[Master & Expert (DM1)|Master & Expert]]"
+* #252: "[[Nekogal 1 (DM1)|Nekogal #1]]"
+* #255: "[[Prevent Rat (DM1)|Prevent Rat]]"
+* #282: "[[Mystical Sheep 2 (DM1)|Mystical Sheep #2]]"
+}}
+<section end="Rare Fish" />
+
+== 234: "Beautiful Headhunt" ==
+{{Main|""Beautiful Headhunt"" (''DM1'')}}
+
+<section begin="Beautiful Headhunt" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = <nowiki>#</nowiki>225: "[[Fiend Sword (DM1)|Fiend Sword]]"
+| f1_m2 =
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+}}
+<section end="Beautiful Headhunt" />
+
+== 241: "Dark Assailant" ==
+{{Main|""Dark Assailant"" (''DM1'')}}
+
+<section begin="Dark Assailant" />
+{{DM Fusion Material
+| columns_1 = 3
+| f1_m1 = 
+* #146: "[[Temple of Skulls (DM1)|Temple of Skulls]]"
+* #153: "[[Dokuroizo the Grim (DM1)|Dokuroizo the Grim]]"
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+| f1_m2 = 
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #120: "[[Dream Clown (DM1)|Dream Clown]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #151: "[[Rhaimundos of the (DM1)|Rhaimundos of the]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #256: "[[Dimensional Knight (DM1)|Dimensional Knight]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+* #294: "[[Dragoness the Wick (DM1)|Dragoness the Wick]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+| f2_m1 = 
+* #228: "[[Wood Remains (DM1)|Wood Remains]]"
+| f2_m2 = 
+* #128: "[[LaMoon (DM1)|LaMoon]]"
+| f3_m1 = 
+* #108: "[[Graveyard & Hand (DM1)|Graveyard & Hand]]"
+| f3_m2 = 
+* #009: "[[Shadow Specter (DM1)|Shadow Specter]]"
+* #024: "[[Skull Servant (DM1)|Skull Servant]]"
+* #197: "[[Mech Mole Zombie (DM1)|Mech Mole Zombie]]"
+}}
+<section end="Dark Assailant" />
+
+== 244: "Dissolverock" ==
+{{Main|""Dissolverock"" (''DM1'')}}
+
+<section begin="Dissolverock" />
+{{DM Fusion Material
+| f1_m1 = 
+* #028: "[[Rock Ogre Grotto 1 (DM1)|Rock Ogre Grotto#1]]"
+* #167: "[[Ancient Jar (DM1)|Ancient Jar]]"
+* #237: "[[Haniwa (DM1)|Haniwa]]"
+* #257: "[[Stone Armadiller (DM1)|Stone Armadiller]]"
+* #263: "[[Rock Ogre Grotto 2 (DM1)|Rock Ogre Grotto#2]]"
+| f1_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #176: "[[Fire Eye (DM1)|Fire Eye]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+}}
+<section end="Dissolverock" />
+
+== 251: "Enchanting Mermaid" ==
+{{Main|""Enchanting Mermaid"" (''DM1'')}}
+
+<section begin="Enchanting Mermaid" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>247: "[[Root Water (DM1)|Root Water]]"
+| f1_m2 = 
+* #002: "[[Mystical Elf (DM1)|Mystical Elf]]"
+* #109: "[[All-seeing Goddess (DM1)|All-seeing Goddess]]"
+* #128: "[[LaMoon (DM1)|LaMoon]]"
+* #129: "[[Nemuriko (DM1)|Nemuriko]]"
+* #170: "[[Spirit of the Harp (DM1)|Spirit of the Harp]]"
+* #180: "[[Arlownay (DM1)|Arlownay]]"
+* #192: "[[Key Mace (DM1)|Key Mace]]"
+* #216: "[[Dryad (DM1)|Dryad]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #243: "[[Water Element (DM1)|Water Element]]"
+* #253: "[[Angelwitch (DM1)|Angelwitch]]"
+* #260: "[[Lunar Queen Elzaim (DM1)|Lunar Queen Elzaim]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #299: "[[Sonic Maid (DM1)|Sonic Maid]]"
+}}
+<section end="Enchanting Mermaid" />
+
+== 272: "Mavelus" ==
+{{Main|""Mavelus"" (''DM1'')}}
+
+<section begin="Mavelus" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = 
+* #062: "[[Harpie Lady (DM1)|Harpie Lady]]"
+* #186: "[[Fiend Reflection 2 (DM1)|Fiend Reflection#2]]"
+* #207: "[[Droll Bird (DM1)|Droll Bird]]"
+* #300: "[[Kurama (DM1)|Kurama]]"
+* #062: "[[Harpie Lady (DM1)|Harpie Lady]]"
+| f1_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #133: "[[Charubin the Fire (DM1)|Charubin the Fire]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #176: "[[Fire Eye (DM1)|Fire Eye]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+* #291: "[[Fireyarou (DM1)|Fireyarou]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+* #242: "[[Candle of Destiny (DM1)|Candle of Destiny]]"
+| f2_m1 = 
+* #013: "[[Tyhone (DM1)|Tyhone]]"
+| f2_m2 = 
+* #040: "[[Dragon Piper (DM1)|Dragon Piper]]"
+* #101: "[[Wings of Wicked Fl (DM1)|Wings of Wicked Fl]]"
+* #133: "[[Charubin the Fire (DM1)|Charubin the Fire]]"
+* #142: "[[Flame Manipulator (DM1)|Flame Manipulator]]"
+* #154: "[[Fire Reaper (DM1)|Fire Reaper]]"
+* #157: "[[Firegrass (DM1)|Firegrass]]"
+* #176: "[[Fire Eye (DM1)|Fire Eye]]"
+* #210: "[[Hinotama Soul (DM1)|Hinotama Soul]]"
+* #215: "[[Flame Ghost (DM1)|Flame Ghost]]"
+* #291: "[[Fireyarou (DM1)|Fireyarou]]"
+* #244: "[[Dissolverock (DM1)|Dissolverock]]"
+}}
+<section end="Mavelus" />
+
+== 281: "Mystic Clown" ==
+{{Main|""Mystic Clown"" (''DM1'')}}
+
+<section begin="Mystic Clown" />
+{{DM Fusion Material
+| f1_m1 = <nowiki>#</nowiki>103: "[[Job-change Mirror (DM1)|Job-change Mirror]]"
+| f1_m2 = 
+* #005: "[[Ryu-kishin (DM1)|Ryu-kishin]]"
+* #048: "[[Sangan (DM1)|Sangan]]"
+* #088: "[[Metal Guardian (DM1)|Metal Guardian]]"
+* #175: "[[Ancient Brain (DM1)|Ancient Brain]]"
+* #178: "[[Claw Reacher (DM1)|Claw Reacher]]"
+* #181: "[[Dark Shade (DM1)|Dark Shade]]"
+* #269: "[[Versago the Destro (DM1)|Versago the Destro]]"
+* #279: "[[King Fog (DM1)|King Fog]]"
+}}
+<section end="Mystic Clown" />
+
+== 294: "Dragoness the Wick" ==
+{{Main|""Dragoness the Wick"" (''DM1'')}}
+
+<section begin="Dragoness the Wick" />
+{{DM Fusion Material
+| columns = 2
+| f1_m1 = 
+* #004: "[[Baby Dragon (DM1)|Baby Dragon]]"
+* #122: "[[Yamatano Dragon Sc (DM1)|Yamatano Dragon Sc]]"
+* #200: "[[Petit Dragon (DM1)|Petit Dragon]]"
+* #296: "[[One-eyed Shield Dr (DM1)|One-eyed Shield Dr]]"
+* #298: "[[Wicked Dragon with (DM1)|Wicked Dragon with]]"
+| f1_m2 = 
+* #100: "[[Battle Warrior (DM1)|Battle Warrior]]"
+* #107: "[[Kageningen (DM1)|Kageningen]]"
+* #110: "[[Hero of the East (DM1)|Hero of the East]]"
+* #118: "[[Supporter in the S (DM1)|Supporter in the S]]"
+* #138: "[[Dragon Statue (DM1)|Dragon Statue]]"
+* #147: "[[Monster Egg (DM1)|Monster Egg]]"
+* #156: "[[Hard Armor (DM1)|Hard Armor]]"
+* #160: "[[M-warrior 1 (DM1)|M-warrior #1]]"
+* #161: "[[M-warrior 2 (DM1)|M-warrior #2]]"
+* #166: "[[Mysterious Puppete (DM1)|Mysterious Puppete]]"
+* #172: "[[Armaill (DM1)|Armaill]]"
+* #182: "[[Masked Clown (DM1)|Masked Clown]]"
+* #185: "[[Eyearmor (DM1)|Eyearmor]]"
+* #195: "[[Doron (DM1)|Doron]]"
+* #214: "[[B. Flame Kagemusha (DM1)|B. Flame Kagemusha]]"
+* #224: "[[Trap Master (DM1)|Trap Master]]"
+* #226: "[[Skull Stalker (DM1)|Skull Stalker]]"
+* #231: "[[Wood Clown (DM1)|Wood Clown]]"
+* #235: "[[Wodan the Resident (DM1)|Wodan the Resident]]"
+* #236: "[[Guardian of the La (DM1)|Guardian of the La]]"
+* #239: "[[Vishwar Randi (DM1)|Vishwar Randi]]"
+* #250: "[[Hyo (DM1)|Hyo]]"
+* #262: "[[The Little Swordsm (DM1)|The Little Swordsm]]"
+* #266: "[[Princess of Tsurug (DM1)|Princess of Tsurug]]"
+* #267: "[[Unknown Warrior of (DM1)|Unknown Warrior of]]"
+* #280: "[[Protector of the T (DM1)|Protector of the T]]"
+* #290: "[[Moon Envoy (DM1)|Moon Envoy]]"
+* #293: "[[Masaki the Legenda (DM1)|Masaki the Legenda]]"
+}}
+<section end="Dragoness the Wick" />
+
+{{Yu-Gi-Oh! Duel Monsters}}
+
+[[Category:Yu-Gi-Oh! Duel Monsters (video game)]]
