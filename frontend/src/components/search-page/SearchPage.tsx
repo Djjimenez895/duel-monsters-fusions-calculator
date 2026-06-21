@@ -54,16 +54,22 @@ export default function SearchPage() {
                                             <tr>
                                                 <td colSpan={3}>
                                                     <div className="expanded-details">
-                                                        {row.fusionResult.imageUrl && (
-                                                            <img
-                                                                src={row.fusionResult.imageUrl}
-                                                                alt={row.fusionResult.name}
-                                                                onError={(e) => e.currentTarget.style.display = "none"}
-                                                            />
-                                                        )}
-                                                        <div>Monster Name: {row.fusionResult.name}</div>
-                                                        <div>ATK: {row.fusionResult.attackPoints} | DEF: {row.fusionResult.defensePoints}</div>
-                                                        <div>Description: {row.fusionResult.description}</div>
+                                                        {[row.materials[0], row.materials[1]].map((mat, i) => (
+                                                            <>
+                                                                <div key={i} className="monster-card">
+                                                                    <div className="monster-card-name">{mat?.name}</div>
+                                                                    <div className="monster-card-stats">ATK: {mat?.attackPoints ?? "?"} / DEF: {mat?.defensePoints ?? "?"}</div>
+                                                                    <div className="monster-card-desc">{mat?.description}</div>
+                                                                </div>
+                                                                {i === 0 && <div className="fusion-symbol">+</div>}
+                                                            </>
+                                                        ))}
+                                                        <div className="fusion-symbol">→</div>
+                                                        <div className="monster-card monster-card--result">
+                                                            <div className="monster-card-name">{row.fusionResult.name}</div>
+                                                            <div className="monster-card-stats">ATK: {row.fusionResult.attackPoints ?? "?"} / DEF: {row.fusionResult.defensePoints ?? "?"}</div>
+                                                            <div className="monster-card-desc">{row.fusionResult.description}</div>
+                                                        </div>
                                                     </div>
                                                 </td>
                                             </tr>

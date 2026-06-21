@@ -60,3 +60,56 @@
   cursor: pointer;
   user-select: none;
 }
+
+.expanded-details {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px 8px;
+  flex-wrap: wrap;
+}
+
+.monster-card {
+  flex: 1;
+  min-width: 160px;
+  max-width: 260px;
+  padding: 12px 14px;
+  border: 1px solid #d0d0e0;
+  border-radius: 8px;
+  background-color: #f9f9ff;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.monster-card--result {
+  border-color: #7c3aed;
+  background-color: #f5f0ff;
+}
+
+.monster-card-name {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #1a1a2e;
+}
+
+.monster-card-stats {
+  font-size: 0.82rem;
+  color: #555;
+  font-variant-numeric: tabular-nums;
+}
+
+.monster-card-desc {
+  font-size: 0.82rem;
+  color: #444;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.fusion-symbol {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #7c3aed;
+  align-self: center;
+  padding: 0 4px;
+}
