@@ -13,6 +13,11 @@ describe("GET /monsters", () => {
         expect(res.body).toBeInstanceOf(Array);
     });
 
+    it("returns at least one monster", async () => {
+        const res = await request(app).get("/monsters");
+        expect(res.body.length).toBeGreaterThan(0);
+    });
+
     it("returns monsters with the expected fields", async () => {
         const res = await request(app).get("/monsters");
 
