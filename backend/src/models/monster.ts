@@ -4,6 +4,7 @@ import type { MonsterAttribute, MonsterType } from "../generated/prisma/client";
 export interface Monster {
     id: number;
     name: string;
+    monsterNumber: number | null;
     attribute: MonsterAttribute;
     monsterLevel: number | null;
     type: MonsterType[];

@@ -63,6 +63,7 @@ enum MonsterType {
 model Monster {
   id            Int              @id @default(autoincrement())
   name          String
+  monsterNumber Int?     @map("monster_number")
   attribute     MonsterAttribute
   monsterLevel  Int?
   type          MonsterType[]
