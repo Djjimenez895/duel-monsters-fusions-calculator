@@ -26,7 +26,7 @@ VALUES
 ('Harpie Lady',                     'WIND',  4,  ARRAY['WingedBeast', 'Normal']::cards."MonsterType"[],   'This human-like creature with wings of a bird is beautiful but deadly.', 1300, 1400, NULL, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
 ('Time Wizard',                     'LIGHT', 2,  ARRAY['Spellcaster', 'Effect']::cards."MonsterType"[],   'With a roll of the Time Roulette, either the opponent''s monsters are destroyed or this card''s monsters are destroyed.', 500, 400, NULL, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
 
--- Fusion Monsters
+-- Fusion Monsters`
 ('Blue-Eyes Ultimate Dragon',       'LIGHT', 12, ARRAY['Dragon', 'Fusion']::cards."MonsterType"[],        'The ultimate dragon. This fearsome creature boasts three heads, each as deadly as the next.', 4500, 3800, NULL, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
 ('Gaia the Dragon Champion',        'WIND',  7,  ARRAY['Dragon', 'Fusion']::cards."MonsterType"[],        'Gaia the Fierce Knight merged with Curse of Dragon, creating the ultimate cavalry soldier.', 2600, 2100, NULL, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
 ('Flame Swordsman',                 'FIRE',  5,  ARRAY['Warrior', 'Fusion']::cards."MonsterType"[],       'A fusion of Masaki the Legendary Swordsman and Flame Manipulator. A warrior expert in the magic of fire.', 1800, 1600, NULL, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
