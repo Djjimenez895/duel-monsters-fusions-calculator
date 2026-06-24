@@ -57,6 +57,7 @@ export default function SearchPage() {
                                                         {[row.materials[0], row.materials[1]].map((mat, i) => (
                                                             <>
                                                                 <div key={i} className="monster-card">
+                                                                    {mat?.imageUrl && <img className="monster-card-img" src={mat.imageUrl} alt={mat.name} />}
                                                                     <div className="monster-card-name">{mat?.name}</div>
                                                                     <div className="monster-card-stats">ATK: {mat?.attackPoints ?? "?"} / DEF: {mat?.defensePoints ?? "?"}</div>
                                                                     <div className="monster-card-desc">{mat?.description}</div>
@@ -66,6 +67,7 @@ export default function SearchPage() {
                                                         ))}
                                                         <div className="fusion-symbol">→</div>
                                                         <div className="monster-card monster-card--result">
+                                                            {row.fusionResult.imageUrl && <img className="monster-card-img" src={row.fusionResult.imageUrl} alt={row.fusionResult.name} />}
                                                             <div className="monster-card-name">{row.fusionResult.name}</div>
                                                             <div className="monster-card-stats">ATK: {row.fusionResult.attackPoints ?? "?"} / DEF: {row.fusionResult.defensePoints ?? "?"}</div>
                                                             <div className="monster-card-desc">{row.fusionResult.description}</div>

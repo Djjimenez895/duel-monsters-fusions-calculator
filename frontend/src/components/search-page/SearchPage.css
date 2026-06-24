@@ -87,6 +87,12 @@
   background-color: #f5f0ff;
 }
 
+.monster-card-img {
+  width: 100%;
+  border-radius: 4px;
+  image-rendering: pixelated;
+}
+
 .monster-card-name {
   font-weight: 700;
   font-size: 0.95rem;
@@ -107,7 +113,7 @@
 }
 
 .fusion-symbol {
-  font-size: 1.4rem;
+  font-size: 4rem;
   font-weight: 700;
   color: #7c3aed;
   align-self: center;
