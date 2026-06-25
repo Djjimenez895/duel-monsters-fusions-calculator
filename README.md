@@ -9,9 +9,9 @@ A player can enter the name of a monster, and the app returns a table showing:
 
 For example:
 
-| Monster A | Monster B | Result |
-|----------|-----------|--------|
-| Monster A | Monster B | Monster C |
+| Material 1 | Material 2 | Result    |
+|------------|------------|-----------|
+| Monster A  | Monster B  | Monster C |
 
 ## Purpose
 
