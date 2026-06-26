@@ -60,6 +60,29 @@ enum MonsterType {
   Gemini
 }
 
+enum SpellType {
+  Normal
+  Continuous
+  Equip
+  QuickPlay @map("Quick-Play")
+  Field
+  Ritual
+}
+
+model Spell {
+  id          Int       @id @default(autoincrement())
+  name        String
+  cardNumber  Int?      @map("card_number")
+  type        SpellType
+  description String
+  imageUrl    String?
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  @@unique([name])
+  @@map("spells")
+}
+
 model Monster {
   id            Int              @id @default(autoincrement())
   name          String
