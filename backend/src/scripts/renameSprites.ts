@@ -2,8 +2,9 @@ import prisma from "../db";
 import { readdirSync, renameSync } from "fs";
 import path from "path";
 
-// Usage: npx ts-node --transpile-only src/scripts/renameSprites.ts <imageDir>
-// Renames files like "001.png" → "blue-eyes-white-dragon.png" using monsterNumber from the DB.
+// Usage: npx ts-node --transpile-only src/scripts/renameSprites.ts <imageDir> [monsters|spells]
+// Renames files like "001.png" → "blue-eyes-white-dragon.png" using card number from the DB.
+// Defaults to monsters if no card type is specified.
 
 function slugify(name: string): string {
     return name
@@ -13,23 +14,36 @@ function slugify(name: string): string {
 }
 
 async function main() {
-    const [, , imageDir] = process.argv;
+    const [, , imageDir, cardType = "monsters"] = process.argv;
     if (!imageDir) {
-        console.error("Usage: npx ts-node --transpile-only src/scripts/renameSprites.ts <imageDir>");
+        console.error("Usage: npx ts-node --transpile-only src/scripts/renameSprites.ts <imageDir> [monsters|spells]");
+        process.exit(1);
+    }
+
+    if (cardType !== "monsters" && cardType !== "spells") {
+        console.error(`Unknown card type "${cardType}". Use "monsters" or "spells".`);
         process.exit(1);
     }
 
     const resolvedDir = path.resolve(imageDir);
 
-    // Load all monsters that have a monsterNumber set.
-    const monsters = await prisma.monster.findMany({
-        where: { monsterNumber: { not: null } },
-        select: { monsterNumber: true, name: true },
-    });
+    let numberToName: Map<number, string>;
 
-    const numberToName = new Map<number, string>(
-        monsters.map(m => [m.monsterNumber!, m.name])
-    );
+    if (cardType === "monsters") {
+        const rows = await prisma.monster.findMany({
+            where: { monsterNumber: { not: null } },
+            select: { monsterNumber: true, name: true },
+        });
+        numberToName = new Map(rows.map(r => [r.monsterNumber!, r.name]));
+    } else {
+        const rows = await prisma.spell.findMany({
+            where: { cardNumber: { not: null } },
+            select: { cardNumber: true, name: true },
+        });
+        numberToName = new Map(rows.map(r => [r.cardNumber!, r.name]));
+    }
+
+    console.log(`Loaded ${numberToName.size} ${cardType} from DB.`);
 
     const files = readdirSync(resolvedDir).filter(f => /^\d+\.png$/i.test(f));
     console.log(`Found ${files.length} numbered PNG files in ${resolvedDir}`);
@@ -39,15 +53,15 @@ async function main() {
 
     for (const file of files) {
         const cardNumber = parseInt(file, 10);
-        const monsterName = numberToName.get(cardNumber);
+        const cardName = numberToName.get(cardNumber);
 
-        if (!monsterName) {
-            console.warn(`  ⚠️  No DB monster for card #${cardNumber} (${file})`);
+        if (!cardName) {
+            console.warn(`  ⚠️  No DB ${cardType} for card #${cardNumber} (${file})`);
             skipped++;
             continue;
         }
 
-        const slug = slugify(monsterName);
+        const slug = slugify(cardName);
         const oldPath = path.join(resolvedDir, file);
         const newPath = path.join(resolvedDir, `${slug}.png`);
 
