@@ -1,3 +1,12 @@
+.search-page {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.search-results {
+  overflow-x: auto;
+}
+
 .search-input {
   width: 100%;
   max-width: 400px;
@@ -120,4 +129,59 @@
   color: #7c3aed;
   align-self: center;
   padding: 0 4px;
+}
+
+@media (max-width: 640px) {
+  .search-page {
+    padding: 0 16px;
+  }
+
+  .search-input {
+    max-width: 100%;
+  }
+
+  .card-table {
+    font-size: 0.8rem;
+  }
+
+  .card-table th,
+  .card-table td {
+    padding: 8px 4px;
+  }
+
+  .expanded-details {
+    flex-wrap: nowrap;
+    gap: 4px;
+    padding: 8px 4px;
+    justify-content: center;
+  }
+
+  .monster-card {
+    min-width: unset;
+    max-width: 135px;
+    flex: 1;
+    padding: 6px;
+    gap: 4px;
+  }
+
+  .monster-card-img {
+    max-width: 115px;
+  }
+
+  .monster-card-name {
+    font-size: 0.85rem;
+  }
+
+  .monster-card-stats {
+    font-size: 0.75rem;
+  }
+
+  .monster-card-desc {
+    display: none;
+  }
+
+  .fusion-symbol {
+    font-size: 2rem;
+    padding: 0;
+  }
 }
