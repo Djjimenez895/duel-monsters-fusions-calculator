@@ -19,6 +19,17 @@ export function useFusionSearch(query: string) {
                 const res = await fetch(`${API_URL}/fusions/search?material=${encodeURIComponent(query)}`);
                 const data = await res.json();
                 setResults(data);
+
+                // Preload all card images in the background so they're cached by the time
+                // the user clicks to expand a row.
+                for (const recipe of data) {
+                    for (const monster of [...recipe.materials, recipe.fusionResult]) {
+                        if (monster?.imageUrl) {
+                            const img = new Image();
+                            img.src = monster.imageUrl;
+                        }
+                    }
+                }
             } catch (error) {
                 console.error("Failed to fetch fusion recipes", error);
             } finally {
