@@ -58,7 +58,7 @@ export default function SearchPage() {
                                                             <>
                                                                 <div key={i} className="monster-card">
                                                                     {mat?.imageUrl && <img className="monster-card-img" src={mat.imageUrl} alt={mat.name} />}
-                                                                    <div className="monster-card-name">{mat?.name}</div>
+                                                                    <div className="monster-card-number-and-name">#{mat?.monsterNumber} {mat?.name}</div>
                                                                     <div className="monster-card-stats">ATK: {mat?.attackPoints ?? "?"} / DEF: {mat?.defensePoints ?? "?"}</div>
                                                                     <div className="monster-card-desc">{mat?.description}</div>
                                                                 </div>
@@ -68,7 +68,7 @@ export default function SearchPage() {
                                                         <div className="fusion-symbol">→</div>
                                                         <div className="monster-card monster-card--result">
                                                             {row.fusionResult.imageUrl && <img className="monster-card-img" src={row.fusionResult.imageUrl} alt={row.fusionResult.name} />}
-                                                            <div className="monster-card-name">{row.fusionResult.name}</div>
+                                                            <div className="monster-card-number-and-name">#{row?.fusionResult.monsterNumber} {row.fusionResult.name}</div>
                                                             <div className="monster-card-stats">ATK: {row.fusionResult.attackPoints ?? "?"} / DEF: {row.fusionResult.defensePoints ?? "?"}</div>
                                                             <div className="monster-card-desc">{row.fusionResult.description}</div>
                                                         </div>

@@ -3,6 +3,7 @@ import type { MonsterType } from "./monster-type";
 
 export interface MonsterDTO {
     name: string;
+    monsterNumber: number | null;
     attribute: MonsterAttribute;
     monsterLevel: number | null;
     type: MonsterType[];

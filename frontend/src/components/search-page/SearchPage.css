@@ -104,7 +104,7 @@
   image-rendering: pixelated;
 }
 
-.monster-card-name {
+.monster-card-number-and-name {
   font-weight: 700;
   font-size: 0.95rem;
   color: #1a1a2e;
@@ -168,7 +168,7 @@
     max-width: 115px;
   }
 
-  .monster-card-name {
+  .monster-card-number-and-name {
     font-size: 0.85rem;
   }
 
