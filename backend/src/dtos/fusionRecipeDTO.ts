@@ -4,6 +4,7 @@ export interface MonsterDTO {
     name: string;
     attribute: MonsterAttribute;
     monsterLevel: number | null;
+    monsterNumber: number | null;
     type: MonsterType[];
     description: string | null;
     attackPoints: number | null;

@@ -4,6 +4,7 @@ const monsterSelect = {
     name: true,
     attribute: true,
     monsterLevel: true,
+    monsterNumber: true,
     type: true,
     description: true,
     attackPoints: true,
