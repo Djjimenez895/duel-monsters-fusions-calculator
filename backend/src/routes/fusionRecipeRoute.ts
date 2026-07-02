@@ -1,8 +1,8 @@
 import { Router } from "express";
-import { getFusionRecipesByMaterialController } from "../controllers/fusionRecipeController";
+import { searchFusionRecipesByPrefix } from "../controllers/fusionRecipeController";
 
 const router = Router();
 
-router.get("/search", getFusionRecipesByMaterialController);
+router.get("/search", searchFusionRecipesByPrefix);
 
 export default router;

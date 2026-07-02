@@ -1,11 +1,11 @@
 import type { FusionRecipeDTO } from "../dtos/fusionRecipeDTO";
-import { findFusionRecipesByMaterialName } from "../repositories/fusionRecipeRepository";
+import { findFusionRecipesByMaterialNamePrefix } from "../repositories/fusionRecipeRepository";
 import logger from "../logger";
 
-export async function getFusionRecipesByMaterial(materialName: string): Promise<FusionRecipeDTO[]> {
-    logger.info(`Searching for fusions for the monster: ${materialName}`);
-    const recipes = await findFusionRecipesByMaterialName(materialName);
-    logger.info(`Found ${recipes.length} recipe(s) for ${materialName}`);
+export async function getFusionRecipesByMaterialNamePrefix(materialNamePrefix: string): Promise<FusionRecipeDTO[]> {
+    logger.info(`Searching for fusions for the monster: ${materialNamePrefix}`);
+    const recipes = await findFusionRecipesByMaterialNamePrefix(materialNamePrefix);
+    logger.info(`Found ${recipes.length} recipe(s) for ${materialNamePrefix}`);
 
     return recipes.map((recipe) => ({
         fusionResult: recipe.resultMonster,

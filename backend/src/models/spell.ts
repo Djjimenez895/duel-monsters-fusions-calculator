@@ -1,5 +1,6 @@
 import { SpellType } from "./spell-type";
 
+/* Represents a spell card in Duel Monsters. */
 export interface Spell { 
     id: number; 
     name: string; 

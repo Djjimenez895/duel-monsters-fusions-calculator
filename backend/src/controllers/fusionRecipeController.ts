@@ -1,8 +1,8 @@
 import { Request, Response } from "express";
-import { getFusionRecipesByMaterial } from "../services/fusionRecipeService";
+import { getFusionRecipesByMaterialNamePrefix } from "../services/fusionRecipeService";
 import logger from "../logger";
 
-export async function getFusionRecipesByMaterialController(req: Request, res: Response) {
+export async function searchFusionRecipesByPrefix(req: Request, res: Response) {
     const { material } = req.query;
 
     if (!material || typeof material !== "string") {
@@ -11,7 +11,7 @@ export async function getFusionRecipesByMaterialController(req: Request, res: Re
     }
 
     try {
-        const recipes = await getFusionRecipesByMaterial(material);
+        const recipes = await getFusionRecipesByMaterialNamePrefix(material);
         res.json(recipes);
     } catch (error) {
         logger.error("Failed to retrieve fusion recipes", { error });

@@ -12,13 +12,17 @@ const monsterSelect = {
     imageUrl: true,
 };
 
-export async function findFusionRecipesByMaterialName(materialName: string) {
+/* Returns fusion recipes that contain the given prefix in the materials. 
+   For example, entering "fie" would return the fusion recipe: 
+   Fiend Sword + Judge Man = Gaia the Fierce Knight 
+*/
+export async function findFusionRecipesByMaterialNamePrefix(materialNamePrefix: string) {
     return prisma.fusionRecipe.findMany({
         where: {
             materials: {
                 some: {
                     materialMonster: {
-                        name: { startsWith: materialName, mode: "insensitive" },
+                        name: { startsWith: materialNamePrefix, mode: "insensitive" },
                     },
                 },
             },

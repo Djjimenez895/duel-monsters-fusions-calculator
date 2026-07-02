@@ -1,3 +1,4 @@
+/* The different spell types for Duel Monsters cards. */
 export const SpellType = { 
     Normal: "Normal",
     Continuous: "Continuous",
