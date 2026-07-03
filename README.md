@@ -25,6 +25,16 @@ The main goal is to answer questions like:
 - View all known fusion combinations involving that monster
 - Display fusion results in a clean table with card images
 
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- HTML/CSS
+- Node.js + Express (backend)
+- PostgreSQL + Prisma
+- Winston (logging)
+- Vitest + Supertest (testing)
+
 ## Local Development
 
 ### Prerequisites
@@ -77,16 +87,6 @@ The main goal is to answer questions like:
     npm run dev
     ```
     The app will be available at `http://localhost:5173`.
-
-## Tech Stack
-- React
-- TypeScript
-- Vite
-- HTML/CSS
-- Node.js + Express (backend)
-- PostgreSQL + Prisma
-- Winston (logging)
-- Vitest + Supertest (testing)
 
 ## Running Tests
 
