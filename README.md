@@ -1,6 +1,8 @@
 # Duel Monsters Fusion Calculator
 A simple web app for looking up monster fusions from the Game Boy Duel Monsters game.
 
+The live application can be found here: https://ygofusion.com/
+
 ## Table of Contents
 - [Purpose](#purpose)
 - [Features](#features)
@@ -8,18 +10,6 @@ A simple web app for looking up monster fusions from the Game Boy Duel Monsters 
 - [Local Development](#local-development)
 - [Running Tests](#running-tests)
 - [Planned Features](#planned-features)
-
-A player can enter the name of a monster, and the app returns a table showing:
-
-- Monsters it can fuse with
-- The resulting fusion monster
-- Fusion combinations in an easy-to-search format
-
-For example:
-
-| Material 1 | Material 2 | Result    |
-|------------|------------|-----------|
-| Monster A  | Monster B  | Monster C |
 
 ## Purpose
 
