@@ -10,9 +10,9 @@ The live application can be found here: https://ygofusion.com/
 - [Local Development](#local-development)
 - [Running Tests](#running-tests)
 - [Planned Features](#planned-features)
+- [Special Thanks](#special-thanks)
 
 ## Purpose
-
 Lookup Duel Monsters fusions faster. Before a tool like this, people would need to search on the game's wiki pages and find the cards they're using, and any fusion combos associated with them.
 
 The main goal is to answer questions like:
@@ -116,3 +116,8 @@ npm test
 - Filter by attack/defense range
 - Add autocomplete for monster names
 - Add support for multiple Game Boy Duel Monsters games
+
+## Special Thanks
+Special thank you to Spriters Resource user [Phongpon](https://www.spriters-resource.com/profile/phongpon/) for uploading sprite sheets for Duel Monsters on Game Boy. 
+
+Special thank you to [Yugipedia](https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_(video_game)) for documenting information about Duel Monsters on Game Boy. 
