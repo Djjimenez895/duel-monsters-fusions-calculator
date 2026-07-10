@@ -36,7 +36,7 @@ The main goal is to answer questions like:
 ## Local Development
 
 ### Prerequisites
-- Node.js 20+
+- Node.js 24+
 - A PostgreSQL database (local install or [Supabase](https://supabase.com) free tier)
 
 ### Backend setup
