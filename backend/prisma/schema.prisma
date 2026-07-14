@@ -60,6 +60,23 @@ enum MonsterType {
   Gemini
 }
 
+enum Duelist {
+  YugiMuto           @map("Yugi Muto")
+  TristanTaylor      @map("Tristan Taylor")
+  JoeyWheeler        @map("Joey Wheeler")
+  RyouBakura         @map("Ryou Bakura")
+  WeevilUnderwood    @map("Weevil Underwood")
+  MakoTsunami        @map("Mako Tsunami")
+  SetoKaiba          @map("Seto Kaiba")
+  MokubaKaiba        @map("Mokuba Kaiba")
+  Puppeteer
+  PaniK
+  BanditKeith        @map("Bandit Keith")
+  SimonMuran         @map("Simon Muran")
+  MaximillionPegasus @map("Maximillion Pegasus")
+  YamiYugi           @map("Yami Yugi")
+}
+
 enum SpellType {
   Normal
   Continuous
@@ -99,6 +116,7 @@ model Monster {
 
   fusionResults   FusionRecipe[]         @relation("ResultMonster")
   fusionMaterials FusionRecipeMaterial[] @relation("MaterialMonster")
+  cardDrops       CardDrop[]
 
   @@unique([name])
   @@map("monsters")
@@ -127,4 +145,17 @@ model FusionRecipeMaterial {
   materialMonster Monster      @relation("MaterialMonster", fields: [materialMonsterId], references: [id])
 
   @@map("fusion_recipe_materials")
+}
+
+model CardDrop {
+  id          Int      @id @default(autoincrement())
+  duelistName Duelist  @map("duelist_name")
+  monsterId   Int      @map("monster_id")
+  dropChance  Float?   @map("drop_chance")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  monster Monster @relation(fields: [monsterId], references: [id])
+
+  @@map("card_drops")
 }
