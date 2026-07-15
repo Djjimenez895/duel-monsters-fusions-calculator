@@ -9,7 +9,6 @@ export function useFusionSearch(query: string) {
 
     useEffect(() => {
         if (!query) {
-            setResults([]);
             return;
         }
 
@@ -40,5 +39,5 @@ export function useFusionSearch(query: string) {
         return () => clearTimeout(timer);
     }, [query]);
 
-    return { results, loading };
+    return { results: query ? results : [], loading };
 }
