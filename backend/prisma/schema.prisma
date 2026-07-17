@@ -114,9 +114,10 @@ model Monster {
   createdAt     DateTime         @default(now()) @map("created_at")
   updatedAt     DateTime         @updatedAt @map("updated_at")
 
-  fusionResults   FusionRecipe[]         @relation("ResultMonster")
-  fusionMaterials FusionRecipeMaterial[] @relation("MaterialMonster")
-  cardDrops       CardDrop[]
+  fusionResults       FusionRecipe[]         @relation("ResultMonster")
+  fusionMaterials     FusionRecipeMaterial[] @relation("MaterialMonster")
+  monsterCardDrops    MonsterCardDrop[]      @relation("MonsterCardDrops")
+  monsterVictoryBonuses MonsterVictoryBonus[] @relation("MonsterVictoryBonuses")
 
   @@unique([name])
   @@map("monsters")
@@ -147,15 +148,28 @@ model FusionRecipeMaterial {
   @@map("fusion_recipe_materials")
 }
 
-model CardDrop {
+model MonsterCardDrop {
   id          Int      @id @default(autoincrement())
   duelistName Duelist  @map("duelist_name")
   monsterId   Int      @map("monster_id")
-  dropChance  Float?   @map("drop_chance")
+  dropChance  Float    @map("drop_chance")
   createdAt   DateTime @default(now()) @map("created_at")
   updatedAt   DateTime @updatedAt @map("updated_at")
 
-  monster Monster @relation(fields: [monsterId], references: [id])
+  monster Monster @relation("MonsterCardDrops", fields: [monsterId], references: [id])
 
-  @@map("card_drops")
+  @@map("monster_card_drops")
+}
+
+model MonsterVictoryBonus {
+  id           Int      @id @default(autoincrement())
+  duelistName  Duelist  @map("duelist_name")
+  monsterId    Int      @map("monster_id")
+  winsRequired Int      @map("wins_required")
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  monster Monster @relation("MonsterVictoryBonuses", fields: [monsterId], references: [id])
+
+  @@map("monster_victory_bonuses")
 }
