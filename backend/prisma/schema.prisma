@@ -66,7 +66,9 @@ enum Duelist {
   JoeyWheeler        @map("Joey Wheeler")
   RyouBakura         @map("Ryou Bakura")
   WeevilUnderwood    @map("Weevil Underwood")
+  RexRaptor          @map("Rex Raptor")
   MakoTsunami        @map("Mako Tsunami")
+  MaiValentine       @map("Mai Valentine")
   SetoKaiba          @map("Seto Kaiba")
   MokubaKaiba        @map("Mokuba Kaiba")
   Puppeteer
