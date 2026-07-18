@@ -61,6 +61,16 @@ export default function SearchPage() {
                                                                     <div className="monster-card-number-and-name">#{mat?.monsterNumber} {mat?.name}</div>
                                                                     <div className="monster-card-stats">ATK: {mat?.attackPoints ?? "?"} / DEF: {mat?.defensePoints ?? "?"}</div>
                                                                     <div className="monster-card-desc">{mat?.description}</div>
+                                                                    {mat?.monsterCardDrops.map((drop) => (
+                                                                        <div key={drop.duelistName} className="monster-card-drop">
+                                                                            Drops from: {drop.duelistName} ({drop.dropChance}%)
+                                                                        </div>
+                                                                    ))}
+                                                                    {mat?.monsterVictoryBonuses.map((bonus) => (
+                                                                        <div key={bonus.duelistName} className="monster-card-victory-bonus">
+                                                                            Victory bonus from: {bonus.duelistName} | Wins: {bonus.winsRequired}
+                                                                        </div>
+                                                                    ))}
                                                                 </div>
                                                                 {i === 0 && <div className="fusion-symbol">+</div>}
                                                             </>
@@ -71,6 +81,16 @@ export default function SearchPage() {
                                                             <div className="monster-card-number-and-name">#{row?.fusionResult.monsterNumber} {row.fusionResult.name}</div>
                                                             <div className="monster-card-stats">ATK: {row.fusionResult.attackPoints ?? "?"} / DEF: {row.fusionResult.defensePoints ?? "?"}</div>
                                                             <div className="monster-card-desc">{row.fusionResult.description}</div>
+                                                            {row.fusionResult?.monsterCardDrops.map((drop) => (
+                                                                <div key={drop.duelistName} className="monster-card-drop">
+                                                                    Drops from: {drop.duelistName} ({drop.dropChance}%)
+                                                                </div>
+                                                            ))}
+                                                            {row.fusionResult?.monsterVictoryBonuses.map((bonus) => (
+                                                                <div key={bonus.duelistName} className="monster-card-victory-bonus">
+                                                                    Victory bonus from: {bonus.duelistName} | Wins: {bonus.winsRequired}
+                                                                </div>
+                                                            ))}
                                                         </div>
                                                     </div>
                                                 </td>

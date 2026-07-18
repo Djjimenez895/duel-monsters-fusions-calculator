@@ -180,6 +180,14 @@
     display: none;
   }
 
+  .monster-card-drop {
+    font-size: 0.70rem;
+  }
+
+  .monster-card-victory-bonus {
+    font-size: 0.70rem;
+  }
+
   .fusion-symbol {
     font-size: 2rem;
     padding: 0;
