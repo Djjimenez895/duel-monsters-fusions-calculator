@@ -1,7 +1,6 @@
 import prisma from "../db";
-import type { Monster } from "../models/monster";
 
-export async function findAllMonsters(): Promise<Monster[]> {
+export async function findAllMonsters() {
     return prisma.monster.findMany({ orderBy: {name: "asc"} });
 }
 
