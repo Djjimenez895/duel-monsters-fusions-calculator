@@ -47,11 +47,11 @@ describe('SearchPage', () => {
             results: [
                 {
                     materials: [
-                        { name: 'Flame Swordsman', attribute: 'FIRE', monsterLevel: 5, monsterNumber: 1, type: ['Warrior'], description: null, attackPoints: 1800, defensePoints: 1600, imageUrl: null },
-                        { name: 'Skull Stalker', attribute: 'DARK', monsterLevel: 3, monsterNumber: 2, type: ['Warrior'], description: null, attackPoints: 900, defensePoints: 600, imageUrl: null },
+                        { name: 'Flame Swordsman', attribute: 'FIRE', monsterLevel: 5, monsterNumber: 1, type: ['Warrior'], description: null, attackPoints: 1800, defensePoints: 1600, imageUrl: null, monsterCardDrops: [], monsterVictoryBonuses: [] },
+                        { name: 'Skull Stalker', attribute: 'DARK', monsterLevel: 3, monsterNumber: 2, type: ['Warrior'], description: null, attackPoints: 900, defensePoints: 600, imageUrl: null, monsterCardDrops: [], monsterVictoryBonuses: [] },
                     ],
                     fusionResult: {
-                        name: 'Gaia the Fierce Knight', attribute: 'EARTH', monsterLevel: 7, monsterNumber: 3, type: ['Warrior'], description: null, attackPoints: 2300, defensePoints: 2100, imageUrl: null,
+                        name: 'Gaia the Fierce Knight', attribute: 'EARTH', monsterLevel: 7, monsterNumber: 3, type: ['Warrior'], description: null, attackPoints: 2300, defensePoints: 2100, imageUrl: null, monsterCardDrops: [], monsterVictoryBonuses: [],
                     },
                 },
             ],

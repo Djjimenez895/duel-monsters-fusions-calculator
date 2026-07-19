@@ -10,6 +10,15 @@ const monsterSelect = {
     attackPoints: true,
     defensePoints: true,
     imageUrl: true,
+    monsterCardDrops: {
+        select: { 
+            duelistName: true, 
+            dropChance: true,
+        }
+    },
+    monsterVictoryBonuses: {
+        select: { duelistName: true, winsRequired: true },
+    },
 };
 
 /* Returns fusion recipes that contain the given prefix in the materials. 

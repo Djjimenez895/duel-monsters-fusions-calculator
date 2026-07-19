@@ -131,6 +131,11 @@
   padding: 0 4px;
 }
 
+.monster-card-drop-header,
+.monster-card-victory-bonus-header {
+  font-weight: 700;
+}
+
 @media (max-width: 640px) {
   .search-page {
     padding: 0 16px;
@@ -178,6 +183,16 @@
 
   .monster-card-desc {
     display: none;
+  }
+
+  .monster-card-drop,
+  .monster-card-drop-header {
+    font-size: 0.70rem;
+  }
+
+  .monster-card-victory-bonus,
+  .monster-card-victory-bonus-header {
+    font-size: 0.70rem;
   }
 
   .fusion-symbol {
