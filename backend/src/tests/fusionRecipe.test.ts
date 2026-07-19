@@ -140,4 +140,30 @@ describe("GET /fusions/search", () => {
             }
         }
     });
+
+    it("formats duelist names as display strings, not enum identifiers", async () => {
+        const res = await request(app)
+            .get("/fusions/search?material=Gaia the Fierce Knight");
+
+        expect(res.status).toBe(200);
+
+        const validDuelistNames = [
+            "Yugi Muto", "Tristan Taylor", "Joey Wheeler", "Ryou Bakura",
+            "Weevil Underwood", "Rex Raptor", "Mako Tsunami", "Mai Valentine",
+            "Seto Kaiba", "Mokuba Kaiba", "Puppeteer", "PaniK",
+            "Bandit Keith", "Simon Muran", "Maximillion Pegasus", "Yami Yugi",
+        ];
+
+        for (const recipe of res.body) {
+            const monsters = [recipe.fusionResult, ...recipe.materials];
+            for (const monster of monsters) {
+                monster.monsterCardDrops.forEach((drop: { duelistName: string }) => {
+                    expect(validDuelistNames).toContain(drop.duelistName);
+                });
+                monster.monsterVictoryBonuses.forEach((bonus: { duelistName: string }) => {
+                    expect(validDuelistNames).toContain(bonus.duelistName);
+                });
+            }
+        }
+    });
 });
