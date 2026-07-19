@@ -61,7 +61,7 @@ export default function SearchPage() {
                                                                     <div className="monster-card-number-and-name">#{mat?.monsterNumber} {mat?.name}</div>
                                                                     <div className="monster-card-stats">ATK: {mat?.attackPoints ?? "?"} / DEF: {mat?.defensePoints ?? "?"}</div>
                                                                     <div className="monster-card-desc">{mat?.description}</div>
-                                                                    {mat?.monsterCardDrops.length > 0 && <div className="monster-card-drop"> Drops from: </div>}
+                                                                    {mat?.monsterCardDrops.length > 0 && <div className="monster-card-drop-header">Drops from:</div>}
                                                                     
                                                                     {mat?.monsterCardDrops.map((drop) => (
                                                                         <div key={drop.duelistName} className="monster-card-drop">
@@ -69,7 +69,7 @@ export default function SearchPage() {
                                                                         </div>
                                                                     ))}
 
-                                                                    {mat?.monsterVictoryBonuses.length > 0 && <div className="monster-card-victory-bonus"> Victory bonus from: </div>}
+                                                                    {mat?.monsterVictoryBonuses.length > 0 && <div className="monster-card-victory-bonus-header">Victory bonus from:</div>}
 
                                                                     {mat?.monsterVictoryBonuses.map((bonus) => (
                                                                         <div key={bonus.duelistName} className="monster-card-victory-bonus">
@@ -86,14 +86,18 @@ export default function SearchPage() {
                                                             <div className="monster-card-number-and-name">#{row?.fusionResult.monsterNumber} {row.fusionResult.name}</div>
                                                             <div className="monster-card-stats">ATK: {row.fusionResult.attackPoints ?? "?"} / DEF: {row.fusionResult.defensePoints ?? "?"}</div>
                                                             <div className="monster-card-desc">{row.fusionResult.description}</div>
+                                                            {row.fusionResult.monsterCardDrops.length > 0 && <div className="monster-card-drop-header">Drops from:</div>}
+
                                                             {row.fusionResult?.monsterCardDrops.map((drop) => (
                                                                 <div key={drop.duelistName} className="monster-card-drop">
-                                                                    Drops from: {drop.duelistName} ({drop.dropChance}%)
+                                                                    {drop.duelistName} ({drop.dropChance}%)
                                                                 </div>
                                                             ))}
+
+                                                            {row.fusionResult?.monsterVictoryBonuses.length > 0 && <div className="monster-card-victory-bonus-header">Victory bonus from:</div>}
                                                             {row.fusionResult?.monsterVictoryBonuses.map((bonus) => (
                                                                 <div key={bonus.duelistName} className="monster-card-victory-bonus">
-                                                                    Victory bonus from: {bonus.duelistName} | Wins: {bonus.winsRequired}
+                                                                    {bonus.duelistName} | Wins: {bonus.winsRequired}
                                                                 </div>
                                                             ))}
                                                         </div>
