@@ -1,12 +1,15 @@
 import { execSync } from "child_process";
 import path from "path";
 
-const db = process.env.DATABASE_URL;
+const rawUrl = process.env.DATABASE_URL;
 
-if (!db) {
+if (!rawUrl) {
     console.error("DATABASE_URL is not set.");
     process.exit(1);
 }
+
+// Strip Prisma-specific query params (e.g. ?schema=...) that psql doesn't understand
+const db = rawUrl.split("?")[0];
 
 const seedDir = path.join(__dirname, "../db_seed_data");
 
