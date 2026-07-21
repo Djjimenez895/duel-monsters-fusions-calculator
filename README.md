@@ -54,11 +54,12 @@ The main goal is to answer questions like:
     NODE_ENV=development
     ```
 
-3. Generate the Prisma client:
+3. Generate the Prisma migrations, and seed DB data:
     ```
     npx prisma generate
+    npx prisma db seed
     ```
-
+    
 4. Seed the database by running `backend/db_seed_data/card_data.sql` against your PostgreSQL database using pgAdmin or `psql`.
 
 5. Start the dev server:
