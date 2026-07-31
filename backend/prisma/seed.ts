@@ -1,5 +1,6 @@
 import { execSync } from "child_process";
 import path from "path";
+import prisma from "../src/db";
 
 const rawUrl = process.env.DATABASE_URL;
 
@@ -13,11 +14,23 @@ const db = rawUrl.split("?")[0];
 
 const seedDir = path.join(__dirname, "../db_seed_data");
 
-const files = ["card_data.sql", "seed_card_drop_data.sql", "seed_victory_bonuses_data.sql"];
+const files: { file: string; count: () => Promise<number> }[] = [
+    { file: "card_data.sql",                  count: () => prisma.monster.count() },
+    { file: "seed_card_drop_data.sql",         count: () => prisma.monsterCardDrop.count() },
+    { file: "seed_victory_bonuses_data.sql",   count: () => prisma.monsterVictoryBonus.count() },
+];
 
-for (const file of files) {
-    console.log(`Running ${file}...`);
-    execSync(`psql "${db}" -f "${path.join(seedDir, file)}"`, { stdio: "inherit" });
+async function main() {
+    for (const { file, count } of files) {
+        const before = await count();
+        console.log(`Running ${file}...`);
+        execSync(`psql "${db}" -f "${path.join(seedDir, file)}"`, { stdio: "inherit" });
+        const after = await count();
+        console.log(`  Inserted ${after - before} row(s) (${after - before === 0 ? "all skipped" : `${before} already existed`}).`);
+    }
+
+    await prisma.$disconnect();
+    console.log("Seeding complete.");
 }
 
-console.log("Seeding complete.");
+main();
