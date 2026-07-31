@@ -9,12 +9,54 @@ on:
 jobs:
   frontend-tests:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 24
       - name: Install dependencies
-        run: cd frontend && npm install
+        run: npm install
       - name: Run frontend tests
-        run: cd frontend && npm test
+        run: npm test
+
+  backend-tests:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: duel_monsters
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    env:
+      DATABASE_URL: postgresql://postgres:postgres@localhost:5432/duel_monsters?schema=cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install dependencies
+        run: npm install
+      - name: Install PostgreSQL client
+        run: sudo apt-get install -y postgresql-client
+      - name: Generate Prisma client
+        run: npx prisma generate
+      - name: Run migrations
+        run: npx prisma migrate deploy
+      - name: Seed database
+        run: npx prisma db seed
+      - name: Run backend tests
+        run: npm test
