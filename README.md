@@ -52,7 +52,9 @@ The main goal is to answer questions like:
     DATABASE_URL=your_postgres_connection_string
     ALLOWED_ORIGINS=http://localhost:5173
     NODE_ENV=development
+    API_KEY=a_shared_secret_for_trusted_clients
     ```
+    `API_KEY` lets trusted clients bypass rate limiting by sending it as the `X-API-Key` header. Requests without a matching key are still served, just subject to the rate limit.
 
 3. Generate the Prisma migrations, and seed DB data:
     ```
@@ -79,7 +81,11 @@ The main goal is to answer questions like:
 2. Create a `.env` file in `frontend/`:
     ```
     VITE_API_URL=http://localhost:3000
+    VITE_API_KEY=a_shared_secret_for_trusted_clients
     ```
+    `VITE_API_KEY` should match the backend's `API_KEY` so the app's requests bypass rate limiting.
+
+    **Note:** Vite inlines `VITE_`-prefixed variables into the built JS bundle, so this key ships to every browser that loads the app — anyone can read it from the Network tab or the bundle source. It's not a security boundary; it just keeps the app's own traffic from tripping a rate limit meant for anonymous/bot traffic, and does not stop someone who deliberately extracts the key from bypassing the limit too.
 
 3. Start the dev server:
     ```
