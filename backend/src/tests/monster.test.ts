@@ -93,4 +93,12 @@ describe("GET /monsters", () => {
             }
         });
     });
+
+    // Canary: this suite's requests carry no X-API-Key, so they all count against the
+    // unauthenticated rate limit. Failing here means this file is approaching that limit
+    // well before it would start actually tripping 429s.
+    it("stays comfortably under the unauthenticated rate limit for this file", async () => {
+        const res = await request(app).get("/monsters");
+        expect(Number(res.headers["ratelimit-remaining"])).toBeGreaterThan(50);
+    });
 });
