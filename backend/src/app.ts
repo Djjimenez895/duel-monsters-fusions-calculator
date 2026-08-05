@@ -3,8 +3,15 @@ import express from "express";
 import cors from "cors";
 import monsterRouter from "./routes/monsterRoute";
 import fusionRecipeRouter from "./routes/fusionRecipeRoute";
+import { apiKeyAuth } from "./middleware/apiKeyAuth";
+import { rateLimiter } from "./middleware/rateLimiter";
 
 export const app = express();
+
+// Render sits in front of this service as a single reverse proxy hop, forwarding the
+// real client IP via X-Forwarded-For. Without this, req.ip (used by the rate limiter)
+// would resolve to Render's proxy IP for every request instead of the actual client.
+app.set("trust proxy", 1);
 
 const allowedOrigins = process.env.ALLOWED_ORIGINS
     ? process.env.ALLOWED_ORIGINS.split(",").map(o => o.trim())
@@ -20,6 +27,8 @@ app.use(cors({
     },
 }));
 app.use(express.json());
+app.use(apiKeyAuth);
+app.use(rateLimiter);
 
 app.get("/", (_req, res) => {
     res.json({ message: "Duel Monsters Fusion API is running." });

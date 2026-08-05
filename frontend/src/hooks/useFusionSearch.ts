@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import type { FusionRecipeDTO } from "../models/fusion-recipe-dto";
 
 const API_URL = import.meta.env.VITE_API_URL;
+const API_KEY = import.meta.env.VITE_API_KEY;
 
 export function useFusionSearch(query: string) {
     const [results, setResults] = useState<FusionRecipeDTO[]>([]);
@@ -15,7 +16,9 @@ export function useFusionSearch(query: string) {
         const timer = setTimeout(async () => {
             setLoading(true);
             try {
-                const res = await fetch(`${API_URL}/fusions/search?material=${encodeURIComponent(query)}`);
+                const res = await fetch(`${API_URL}/fusions/search?material=${encodeURIComponent(query)}`, {
+                    headers: { "X-API-Key": API_KEY },
+                });
                 const data = await res.json();
                 setResults(data);
 
