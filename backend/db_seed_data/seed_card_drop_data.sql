@@ -496,5 +496,6 @@ INSERT INTO cards.monster_card_drops (id, duelist_name, monster_id, drop_chance,
 INSERT INTO cards.monster_card_drops (id, duelist_name, monster_id, drop_chance, created_at, updated_at) VALUES (497, 'Mokuba Kaiba', 10, 0.59, '2026-07-16 22:21:45.687', '2026-07-16 22:21:45.687') ON CONFLICT (id) DO NOTHING;
 INSERT INTO cards.monster_card_drops (id, duelist_name, monster_id, drop_chance, created_at, updated_at) VALUES (498, 'Yugi Muto', 298, 2.1, '2026-07-16 22:21:45.687', '2026-07-16 22:21:45.687') ON CONFLICT (id) DO NOTHING;
 INSERT INTO cards.monster_card_drops (id, duelist_name, monster_id, drop_chance, created_at, updated_at) VALUES (499, 'Ryou Bakura', 271, 3.08, '2026-07-16 22:21:45.687', '2026-07-16 22:21:45.687') ON CONFLICT (id) DO NOTHING;
+INSERT INTO cards.monster_card_drops (id, duelist_name, monster_id, drop_chance, created_at, updated_at) VALUES (500, 'Yami Yugi', 79, 20.36, '2026-07-16 22:21:45.687', '2026-07-16 22:21:45.687') ON CONFLICT (id) DO NOTHING;
 
 
