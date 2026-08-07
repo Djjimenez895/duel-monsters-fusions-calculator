@@ -98,6 +98,9 @@ model Spell {
   createdAt   DateTime  @default(now()) @map("created_at")
   updatedAt   DateTime  @updatedAt @map("updated_at")
 
+  spellCardDrops      SpellCardDrop[]      @relation("SpellCardDrops")
+  spellVictoryBonuses SpellVictoryBonus[]  @relation("SpellVictoryBonuses")
+
   @@unique([name])
   @@map("spells")
 }
@@ -174,4 +177,30 @@ model MonsterVictoryBonus {
   monster Monster @relation("MonsterVictoryBonuses", fields: [monsterId], references: [id])
 
   @@map("monster_victory_bonuses")
+}
+
+model SpellCardDrop {
+  id          Int      @id @default(autoincrement())
+  duelistName Duelist  @map("duelist_name")
+  spellId     Int      @map("spell_id")
+  dropChance  Float    @map("drop_chance")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  spell Spell @relation("SpellCardDrops", fields: [spellId], references: [id])
+
+  @@map("spell_card_drops")
+}
+
+model SpellVictoryBonus {
+  id           Int      @id @default(autoincrement())
+  duelistName  Duelist  @map("duelist_name")
+  spellId      Int      @map("spell_id")
+  winsRequired Int      @map("wins_required")
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  spell Spell @relation("SpellVictoryBonuses", fields: [spellId], references: [id])
+
+  @@map("spell_victory_bonuses")
 }
