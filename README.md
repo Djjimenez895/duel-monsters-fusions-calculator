@@ -13,7 +13,7 @@ The live application can be found here: https://ygofusion.com/
 - [Special Thanks](#special-thanks)
 
 ## Purpose
-Lookup Duel Monsters fusions faster. Before a tool like this, people would need to search on the game's wiki pages and find the cards they're using, and any fusion combos associated with them.
+Look up Duel Monsters fusions faster. Before a tool like this, people would need to search on the game's wiki pages and find the cards they're using, and any fusion combos associated with them.
 
 The main goal is to answer questions like:
 "What can this monster fuse with?" or "What fusions can I make using this monster?"
