@@ -15,9 +15,11 @@ const db = rawUrl.split("?")[0];
 const seedDir = path.join(__dirname, "../db_seed_data");
 
 const files: { file: string; count: () => Promise<number> }[] = [
-    { file: "card_data.sql",                  count: () => prisma.monster.count() },
-    { file: "seed_card_drop_data.sql",         count: () => prisma.monsterCardDrop.count() },
-    { file: "seed_victory_bonuses_data.sql",   count: () => prisma.monsterVictoryBonus.count() },
+    { file: "card_data.sql",                       count: () => prisma.monster.count() },
+    { file: "seed_card_drop_data.sql",              count: () => prisma.monsterCardDrop.count() },
+    { file: "seed_victory_bonuses_data.sql",        count: () => prisma.monsterVictoryBonus.count() },
+    { file: "seed_spell_card_drop_data.sql",        count: () => prisma.spellCardDrop.count() },
+    { file: "seed_spell_victory_bonuses_data.sql",  count: () => prisma.spellVictoryBonus.count() },
 ];
 
 async function main() {
